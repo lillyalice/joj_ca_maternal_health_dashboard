@@ -7,10 +7,15 @@ enviormental factors. It also defines the dashboard's dropdown menu
 options.
 
 """
-
 # importing libraries
 
 import pandas as pd
+import os 
+
+# setting base directory 
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 
 # defining a function 'load_snapshot_data()' to read in our datasets
 
@@ -31,7 +36,7 @@ def load_snapshot_data():
 
     # loading in our snapshot dataset containing all chosen variables;
     # forces the 'fips' column to ensure it is read in as a string and does not become and integer
-    df = pd.read_csv('/Users/lilly/Maternal Health Dashboard/dashboard_master.csv', dtype={'fips': str})
+    df = pd.read_csv(os.path.join(BASE_DIR, 'dashboard_master.csv'), dtype={'fips': str})
 
     # renaming columns for consistency across datasets
     df = df.rename(columns={
@@ -64,7 +69,7 @@ def load_crime_data():
         """
 
     # loading in dataset
-    crime = pd.read_csv('/Users/lilly/Maternal Health Dashboard/ca_violent_crime_final.csv', dtype={'FIPS': str})
+    crime = pd.read_csv(os.path.join(BASE_DIR, 'ca_violent_crime_final.csv'), dtype={'FIPS': str})
 
     # selecting the FIPS (Federal Information Processing Standards) --
     # which are geographic location codes used by the federal government --
