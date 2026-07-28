@@ -13,8 +13,11 @@ Run in terminal with: streamlit run app.py
 import streamlit as st
 import pandas as pd
 import requests
+import os
 from streamlit_echarts import st_echarts, Map, JsCode
 from data_loader import load_snapshot_data, load_crime_data, get_variable_config
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # setting up page configurations
 st.set_page_config(page_title='California Maternal Health Dashboard', layout="wide")
@@ -66,7 +69,7 @@ ca_map = Map(map_name="CA_counties", geo_json=geojson)
 st.title('Maternal Health Disparities in California', text_alignment='center')
 
 # subtitle; NOTE FOR LATER: Create an introduction to the dashboard (?)
-st.sidebar.image("/Users/lilly/Downloads/jojLogo.png", width="content")
+st.sidebar.image(os.path.join(BASE_DIR, "jojLogo.png"), width="content")
 
 st.sidebar.header("Map Controls", divider="gray")
 # stores what label is selected by user to 'selected_var'
