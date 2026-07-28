@@ -77,7 +77,7 @@ selected_var = st.sidebar.selectbox("Select a Variable:", [" "] + list(variables
 
 # if there is no variable chosen then an info box is shown prompting the user to select a variable
 if selected_var == " ":
-    st.info("Select a variable from the sidebar to view it on the map.", icon='⚠️', title="Select A Variable From The Sidebar To View It On The Map")
+    st.info(" ", icon='⚠️', title="Select A Variable From The Sidebar To View It On The Map")
     st.stop()
 
 # looks up the settings dictionary for which variable was picked using its label as the dictionary key
