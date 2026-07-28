@@ -1,0 +1,59 @@
+FIPS,STATEFP,COUNTYFP,STATE_ABBR,COUNTY_NAME_SHORT,COUNTY_NAME_FULL
+06001,06,001,CA,Alameda,Alameda County
+06003,06,003,CA,Alpine,Alpine County
+06005,06,005,CA,Amador,Amador County
+06007,06,007,CA,Butte,Butte County
+06009,06,009,CA,Calaveras,Calaveras County
+06011,06,011,CA,Colusa,Colusa County
+06013,06,013,CA,Contra Costa,Contra Costa County
+06015,06,015,CA,Del Norte,Del Norte County
+06017,06,017,CA,El Dorado,El Dorado County
+06019,06,019,CA,Fresno,Fresno County
+06021,06,021,CA,Glenn,Glenn County
+06023,06,023,CA,Humboldt,Humboldt County
+06025,06,025,CA,Imperial,Imperial County
+06027,06,027,CA,Inyo,Inyo County
+06029,06,029,CA,Kern,Kern County
+06031,06,031,CA,Kings,Kings County
+06033,06,033,CA,Lake,Lake County
+06035,06,035,CA,Lassen,Lassen County
+06037,06,037,CA,Los Angeles,Los Angeles County
+06039,06,039,CA,Madera,Madera County
+06041,06,041,CA,Marin,Marin County
+06043,06,043,CA,Mariposa,Mariposa County
+06045,06,045,CA,Mendocino,Mendocino County
+06047,06,047,CA,Merced,Merced County
+06049,06,049,CA,Modoc,Modoc County
+06051,06,051,CA,Mono,Mono County
+06053,06,053,CA,Monterey,Monterey County
+06055,06,055,CA,Napa,Napa County
+06057,06,057,CA,Nevada,Nevada County
+06059,06,059,CA,Orange,Orange County
+06061,06,061,CA,Placer,Placer County
+06063,06,063,CA,Plumas,Plumas County
+06065,06,065,CA,Riverside,Riverside County
+06067,06,067,CA,Sacramento,Sacramento County
+06069,06,069,CA,San Benito,San Benito County
+06071,06,071,CA,San Bernardino,San Bernardino County
+06073,06,073,CA,San Diego,San Diego County
+06075,06,075,CA,San Francisco,San Francisco County
+06077,06,077,CA,San Joaquin,San Joaquin County
+06079,06,079,CA,San Luis Obispo,San Luis Obispo County
+06081,06,081,CA,San Mateo,San Mateo County
+06083,06,083,CA,Santa Barbara,Santa Barbara County
+06085,06,085,CA,Santa Clara,Santa Clara County
+06087,06,087,CA,Santa Cruz,Santa Cruz County
+06089,06,089,CA,Shasta,Shasta County
+06091,06,091,CA,Sierra,Sierra County
+06093,06,093,CA,Siskiyou,Siskiyou County
+06095,06,095,CA,Solano,Solano County
+06097,06,097,CA,Sonoma,Sonoma County
+06099,06,099,CA,Stanislaus,Stanislaus County
+06101,06,101,CA,Sutter,Sutter County
+06103,06,103,CA,Tehama,Tehama County
+06105,06,105,CA,Trinity,Trinity County
+06107,06,107,CA,Tulare,Tulare County
+06109,06,109,CA,Tuolumne,Tuolumne County
+06111,06,111,CA,Ventura,Ventura County
+06113,06,113,CA,Yolo,Yolo County
+06115,06,115,CA,Yuba,Yuba County
