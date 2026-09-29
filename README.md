@@ -4,7 +4,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Community Partner](https://img.shields.io/badge/Partner-Jewel%20of%20Justice-4B2E58?style=flat)](https://jewelofjustice.org/)
-[![Institution](https://img.shields.io/badge/Institution-Morehouse%20College-800000?style=flat)](https://morehouse.edu/)
+[![Institution](https://img.shields.io/badge/Institution-UChicago%20Data%20Science%20Institute-800000?style=flat)](https://datascience.uchicago.edu/)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Project Description 🤯
+## Project Description
 
 Across the United States, Black mothers consistently experience the highest rates of health complications during pregnancy and childbirth. Our **10-year longitudinal time-series analysis (2014–2024) of national CDC Natality data** uncovers a deep structural barrier burden among adult Black mothers: **roughly 1 in 3 Black mothers (~34%) experience delayed or absent 1st-trimester prenatal care**, occurring alongside a 2-year increase in average maternal age. 
 
@@ -215,8 +215,8 @@ The maternal health crisis cannot be solved by clinical charts alone. By combini
 
 ## Research Program & Acknowledgments 🏛️
 
-* **Program:** Data Science for Social Impact (DSSI)
-* **Academic Institution:** University of Chicago Data Science Institute
+* **Program:** Data Science for Social Impact (DSSI) Summer Program
+* **Academic & Research Institution:** [University of Chicago Data Science Institute (DSI)](https://datascience.uchicago.edu/)
 * **Community Partner:** [Jewel of Justice (JOJ)](https://jewelofjustice.org/) — special thanks to organizational leadership for their continuous guidance, workshop survey access, and weekly collaborative design reviews.
 
 ### Research & Project Checklist 🏁
