@@ -4,3 +4,14 @@ __pycache__/
 .DS_Store
 *.pyc
 cdc_15_23_final.csv
+# Confidential research data
+private_data/
+
+# Python virtual environment
+.venv/
+
+# Confidential research data
+private_data/
+
+# Python virtual environment
+.venv/
