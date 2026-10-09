@@ -66,7 +66,7 @@ ca_map = Map(map_name="CA_counties", geo_json=geojson)
 ##################################
 
 # large heading at the top of the page
-st.title('Maternal Health Disparities in California', text_alignment='center')
+st.title('Maternal Health Disparities in California')
 
 # subtitle; NOTE FOR LATER: Create an introduction to the dashboard (?)
 st.sidebar.image(os.path.join(BASE_DIR, "jojLogo.png"), width="content")
@@ -77,7 +77,10 @@ selected_var = st.sidebar.selectbox("Select a Variable:", [" "] + list(variables
 
 # if there is no variable chosen then an info box is shown prompting the user to select a variable
 if selected_var == " ":
-    st.info(" ", icon='⚠️', title="Select A Variable From The Sidebar To View It On The Map")
+    st.info(
+    "Select A Variable From The Sidebar To View It",
+    icon="⚠️"
+)
     st.stop()
 
 # looks up the settings dictionary for which variable was picked using its label as the dictionary key
@@ -133,7 +136,10 @@ tooltip_formatter = JsCode(
 ).js_code
 
 # creates a subheader that displays what variable is being displayed by county on the map
-st.subheader(f"{selected_var} by County", text_alignment="center", divider="grey")
+st.subheader(
+    f"{selected_var} by County",
+    divider="rainbow"
+)
 
 # EChart configuration
 options = {
