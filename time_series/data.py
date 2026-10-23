@@ -1,5 +1,5 @@
 """
-time_series_data.py
+time_series/data.py
 
 This file loads the datasets used by the Time Series tab. The CSVs in
 data/time_series/ are small trimmed copies of the raw source files, made
@@ -12,9 +12,9 @@ with scripts/build_time_series_data.py.
 import pandas as pd
 import os
 
-# setting base directory
+# setting base directory (the project folder, one level above this package)
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CA_DIR = os.path.join(BASE_DIR, 'data', 'time_series', 'california')
 
 # adult age brackets in display order, with the labels used in the chart legend
