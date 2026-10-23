@@ -111,8 +111,15 @@ def render_time_series_tab():
     # creates a subheader for the tab
     st.subheader("Maternal Health Trends Over Time", divider="rainbow")
 
-    # topic picker; pills are click-only and required=True keeps one topic selected
-    topic = st.pills("Choose a topic:", list(TOPICS), default=list(TOPICS)[0], key="ts_topic")
+    # topic picker; pills are click-only. Clicking the selected pill again would leave nothing
+    # selected, so the last topic is saved and handed back to the widget on every run. This keeps
+    # one topic selected on older Streamlit versions that don't have pills(required=True).
+    def remember_topic():
+        if st.session_state["ts_topic"] is not None:
+            st.session_state["ts_topic_pref"] = st.session_state["ts_topic"]
+
+    st.session_state["ts_topic"] = st.session_state.get("ts_topic_pref", list(TOPICS)[0])
+    topic = st.pills("Choose a topic:", list(TOPICS), key="ts_topic", on_change=remember_topic)
     places_with_data = TOPICS[topic]
 
     # remembers the place the user last clicked (Fresno County to start); when this topic has no
@@ -138,12 +145,14 @@ def render_time_series_tab():
     if len(views) > 1:
         # the chosen view is saved per topic and place when it changes, and handed back to the
         # widget on every run, so the highlighted pill still matches the chart after switching
-        # topics (Streamlit forgets a widget's value while it's off the page)
+        # topics (Streamlit forgets a widget's value while it's off the page). Clicking the
+        # selected pill again is ignored, so one view always stays selected.
         widget_key = f"ts_view_{topic}_{place}"
         pref_key = f"{widget_key}_pref"
 
         def remember_view():
-            st.session_state[pref_key] = st.session_state[widget_key]
+            if st.session_state[widget_key] is not None:
+                st.session_state[pref_key] = st.session_state[widget_key]
 
         st.session_state[widget_key] = st.session_state.get(pref_key, views[0])
         view = view_slot.pills("View:", views, key=widget_key, on_change=remember_view)
