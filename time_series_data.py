@@ -75,8 +75,9 @@ def load_medi_cal_rates():
 
     Returns
     -------
-    Returns one row per year and payer with 'hypertension_rate' and
-    'diabetes_rate' columns (%).
+    Returns one row per year and payer with 'births', 'medi_cal_share'
+    (that payer's % of the year's births; read it on the Medi-Cal rows),
+    'hypertension_rate' and 'diabetes_rate' columns (%).
     """
 
     births = pd.read_csv(os.path.join(CA_DIR, 'medi_cal_births_african_american.csv'))
@@ -90,4 +91,12 @@ def load_medi_cal_rates():
     wide['diabetes_rate'] = wide['Diabetes Diagnosis'] / (
         wide['Diabetes Diagnosis'] + wide['No Diabetes Diagnosis']) * 100
 
-    return wide[['year', 'payer', 'hypertension_rate', 'diabetes_rate']]
+    # each birth is listed once under every grouper, so births per payer are counted within
+    # one grouper only; Medi-Cal's share of all births to African American mothers that year
+    payer_births = births[births['grouper'] == 'Hypertension Status'].groupby(
+        ['year', 'payer'], as_index=False)['births'].sum()
+    wide = wide.merge(payer_births, on=['year', 'payer'])
+    wide['medi_cal_share'] = wide.groupby('year')['births'].transform(
+        lambda b: b / b.sum() * 100)
+
+    return wide[['year', 'payer', 'births', 'medi_cal_share', 'hypertension_rate', 'diabetes_rate']]
