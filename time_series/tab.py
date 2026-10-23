@@ -112,7 +112,7 @@ def render_time_series_tab():
     st.subheader("Maternal Health Trends Over Time", divider="rainbow")
 
     # topic picker; pills are click-only and required=True keeps one topic selected
-    topic = st.pills("Choose a topic:", list(TOPICS), default=list(TOPICS)[0], required=True, key="ts_topic")
+    topic = st.pills("Choose a topic:", list(TOPICS), default=list(TOPICS)[0], key="ts_topic")
     places_with_data = TOPICS[topic]
 
     # remembers the place the user last clicked (Fresno County to start); when this topic has no
@@ -146,7 +146,7 @@ def render_time_series_tab():
             st.session_state[pref_key] = st.session_state[widget_key]
 
         st.session_state[widget_key] = st.session_state.get(pref_key, views[0])
-        view = view_slot.pills("View:", views, required=True, key=widget_key, on_change=remember_view)
+        view = view_slot.pills("View:", views, key=widget_key, on_change=remember_view)
 
     render_chart(topic, place, view)
 
