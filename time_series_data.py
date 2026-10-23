@@ -59,3 +59,35 @@ def load_ca_births_by_age():
     births['age_label'] = births['age_group'].map(AGE_LABELS)
 
     return births
+
+
+def load_medi_cal_rates():
+    """ loads yearly diagnosis rates for African American mothers by payer
+
+    This dataset comes from DHCS Medi-Cal Birth Statistics (2014-2023),
+    California resident hospital births. It is statewide only. Rates are
+    diagnoses out of births with a known status (unknowns are excluded),
+    matching the CA DHCS notebook.
+
+    Parameters
+    ----------
+    None.
+
+    Returns
+    -------
+    Returns one row per year and payer with 'hypertension_rate' and
+    'diabetes_rate' columns (%).
+    """
+
+    births = pd.read_csv(os.path.join(CA_DIR, 'medi_cal_births_african_american.csv'))
+
+    # one column per birth characteristic, e.g. 'Hypertension Diagnosis'
+    wide = births.pivot_table(index=['year', 'payer'], columns='characteristic',
+                              values='births', aggfunc='sum').reset_index()
+
+    wide['hypertension_rate'] = wide['Hypertension Diagnosis'] / (
+        wide['Hypertension Diagnosis'] + wide['No Hypertension Diagnosis']) * 100
+    wide['diabetes_rate'] = wide['Diabetes Diagnosis'] / (
+        wide['Diabetes Diagnosis'] + wide['No Diabetes Diagnosis']) * 100
+
+    return wide[['year', 'payer', 'hypertension_rate', 'diabetes_rate']]

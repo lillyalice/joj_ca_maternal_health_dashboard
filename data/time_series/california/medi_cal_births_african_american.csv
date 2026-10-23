@@ -1,0 +1,241 @@
+year,payer,grouper,characteristic,births
+2014,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1263
+2014,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,15689
+2014,Medi-Cal,Diabetes Status,Unknown Diabetes Status,260
+2014,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2342
+2014,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,14610
+2014,Medi-Cal,Hypertension Status,Unknown Hypertension Status,260
+2014,Medi-Cal,Smoking Status,Maternal Non-Smoker,15504
+2014,Medi-Cal,Smoking Status,Maternal Smoker,1044
+2014,Medi-Cal,Smoking Status,Unknown Smoking Status,664
+2014,Medi-Cal,Substance Use Status,Maternal Non-Substance User,16081
+2014,Medi-Cal,Substance Use Status,Maternal Substance User,871
+2014,Medi-Cal,Substance Use Status,Unknown Substance Use Status,260
+2014,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,628
+2014,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,5768
+2014,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,854
+2014,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,913
+2014,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,5483
+2014,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,854
+2014,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,6300
+2014,Non-Medi-Cal,Smoking Status,Maternal Smoker,81
+2014,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,869
+2014,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,6319
+2014,Non-Medi-Cal,Substance Use Status,Maternal Substance User,77
+2014,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,854
+2015,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1420
+2015,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,14767
+2015,Medi-Cal,Diabetes Status,Unknown Diabetes Status,223
+2015,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2431
+2015,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,13756
+2015,Medi-Cal,Hypertension Status,Unknown Hypertension Status,223
+2015,Medi-Cal,Smoking Status,Maternal Non-Smoker,14874
+2015,Medi-Cal,Smoking Status,Maternal Smoker,909
+2015,Medi-Cal,Smoking Status,Unknown Smoking Status,627
+2015,Medi-Cal,Substance Use Status,Maternal Non-Substance User,15230
+2015,Medi-Cal,Substance Use Status,Maternal Substance User,957
+2015,Medi-Cal,Substance Use Status,Unknown Substance Use Status,223
+2015,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,627
+2015,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,5431
+2015,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,848
+2015,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,980
+2015,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,5078
+2015,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,848
+2015,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,5961
+2015,Non-Medi-Cal,Smoking Status,Maternal Smoker,77
+2015,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,868
+2015,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,5974
+2015,Non-Medi-Cal,Substance Use Status,Maternal Substance User,84
+2015,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,848
+2016,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1440
+2016,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,14824
+2016,Medi-Cal,Diabetes Status,Unknown Diabetes Status,138
+2016,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2562
+2016,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,13702
+2016,Medi-Cal,Hypertension Status,Unknown Hypertension Status,138
+2016,Medi-Cal,Smoking Status,Maternal Non-Smoker,14889
+2016,Medi-Cal,Smoking Status,Maternal Smoker,921
+2016,Medi-Cal,Smoking Status,Unknown Smoking Status,592
+2016,Medi-Cal,Substance Use Status,Maternal Non-Substance User,14974
+2016,Medi-Cal,Substance Use Status,Maternal Substance User,1290
+2016,Medi-Cal,Substance Use Status,Unknown Substance Use Status,138
+2016,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,611
+2016,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,5422
+2016,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,818
+2016,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,1071
+2016,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,4962
+2016,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,818
+2016,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,5944
+2016,Non-Medi-Cal,Smoking Status,Maternal Smoker,75
+2016,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,832
+2016,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,5896
+2016,Non-Medi-Cal,Substance Use Status,Maternal Substance User,137
+2016,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,818
+2017,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1389
+2017,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,14442
+2017,Medi-Cal,Diabetes Status,Unknown Diabetes Status,110
+2017,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2752
+2017,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,13079
+2017,Medi-Cal,Hypertension Status,Unknown Hypertension Status,110
+2017,Medi-Cal,Smoking Status,Maternal Non-Smoker,14762
+2017,Medi-Cal,Smoking Status,Maternal Smoker,823
+2017,Medi-Cal,Smoking Status,Unknown Smoking Status,356
+2017,Medi-Cal,Substance Use Status,Maternal Non-Substance User,14421
+2017,Medi-Cal,Substance Use Status,Maternal Substance User,1410
+2017,Medi-Cal,Substance Use Status,Unknown Substance Use Status,110
+2017,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,701
+2017,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,5293
+2017,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,901
+2017,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,1165
+2017,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,4829
+2017,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,901
+2017,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,6787
+2017,Non-Medi-Cal,Smoking Status,Maternal Smoker,79
+2017,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,29
+2017,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,5861
+2017,Non-Medi-Cal,Substance Use Status,Maternal Substance User,133
+2017,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,901
+2018,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1291
+2018,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,13457
+2018,Medi-Cal,Diabetes Status,Unknown Diabetes Status,106
+2018,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2858
+2018,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,11890
+2018,Medi-Cal,Hypertension Status,Unknown Hypertension Status,106
+2018,Medi-Cal,Smoking Status,Maternal Non-Smoker,13803
+2018,Medi-Cal,Smoking Status,Maternal Smoker,691
+2018,Medi-Cal,Smoking Status,Unknown Smoking Status,360
+2018,Medi-Cal,Substance Use Status,Maternal Non-Substance User,13304
+2018,Medi-Cal,Substance Use Status,Maternal Substance User,1444
+2018,Medi-Cal,Substance Use Status,Unknown Substance Use Status,106
+2018,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,726
+2018,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,5468
+2018,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,830
+2018,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,1219
+2018,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,4975
+2018,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,830
+2018,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,6910
+2018,Non-Medi-Cal,Smoking Status,Maternal Smoker,66
+2018,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,48
+2018,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,6044
+2018,Non-Medi-Cal,Substance Use Status,Maternal Substance User,150
+2018,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,830
+2019,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1289
+2019,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,13315
+2019,Medi-Cal,Diabetes Status,Unknown Diabetes Status,81
+2019,Medi-Cal,Hypertension Status,Hypertension Diagnosis,3009
+2019,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,11595
+2019,Medi-Cal,Hypertension Status,Unknown Hypertension Status,81
+2019,Medi-Cal,Smoking Status,Maternal Non-Smoker,13977
+2019,Medi-Cal,Smoking Status,Maternal Smoker,552
+2019,Medi-Cal,Smoking Status,Unknown Smoking Status,156
+2019,Medi-Cal,Substance Use Status,Maternal Non-Substance User,13135
+2019,Medi-Cal,Substance Use Status,Maternal Substance User,1469
+2019,Medi-Cal,Substance Use Status,Unknown Substance Use Status,81
+2019,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,687
+2019,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,5527
+2019,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,872
+2019,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,1412
+2019,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,4802
+2019,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,872
+2019,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,6981
+2019,Non-Medi-Cal,Smoking Status,Maternal Smoker,72
+2019,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,33
+2019,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,6094
+2019,Non-Medi-Cal,Substance Use Status,Maternal Substance User,120
+2019,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,872
+2020,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1267
+2020,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,11973
+2020,Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2020,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2627
+2020,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,10613
+2020,Medi-Cal,Hypertension Status,Unknown Hypertension Diagnosis,0
+2020,Medi-Cal,Smoking Status,Maternal Non-Smoker,12608
+2020,Medi-Cal,Smoking Status,Maternal Smoker,557
+2020,Medi-Cal,Smoking Status,Unknown Smoking Status,75
+2020,Medi-Cal,Substance Use Status,Maternal Non-Substance User,11851
+2020,Medi-Cal,Substance Use Status,Maternal Substance User,1389
+2020,Medi-Cal,Substance Use Status,Unknown Substance Use Diagnosis,0
+2020,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,619
+2020,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,6853
+2020,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2020,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,953
+2020,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,6519
+2020,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Diagnosis,0
+2020,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,7395
+2020,Non-Medi-Cal,Smoking Status,Maternal Smoker,56
+2020,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,21
+2020,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,7304
+2020,Non-Medi-Cal,Substance Use Status,Maternal Substance User,168
+2020,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Diagnosis,0
+2021,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1379
+2021,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,10650
+2021,Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2021,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2600
+2021,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,9429
+2021,Medi-Cal,Hypertension Status,Unknown Hypertension Diagnosis,0
+2021,Medi-Cal,Smoking Status,Maternal Non-Smoker,11644
+2021,Medi-Cal,Smoking Status,Maternal Smoker,327
+2021,Medi-Cal,Smoking Status,Unknown Smoking Status,58
+2021,Medi-Cal,Substance Use Status,Maternal Non-Substance User,10944
+2021,Medi-Cal,Substance Use Status,Maternal Substance User,1085
+2021,Medi-Cal,Substance Use Status,Unknown Substance Use Diagnosis,0
+2021,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,568
+2021,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,7988
+2021,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2021,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,769
+2021,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,7787
+2021,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Diagnosis,0
+2021,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,8405
+2021,Non-Medi-Cal,Smoking Status,Maternal Smoker,112
+2021,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,39
+2021,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,8449
+2021,Non-Medi-Cal,Substance Use Status,Maternal Substance User,107
+2021,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Diagnosis,0
+2022,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1249
+2022,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,10062
+2022,Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2022,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2528
+2022,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,8783
+2022,Medi-Cal,Hypertension Status,Unknown Hypertension Diagnosis,0
+2022,Medi-Cal,Smoking Status,Maternal Non-Smoker,10946
+2022,Medi-Cal,Smoking Status,Maternal Smoker,302
+2022,Medi-Cal,Smoking Status,Unknown Smoking Status,63
+2022,Medi-Cal,Substance Use Status,Maternal Non-Substance User,10432
+2022,Medi-Cal,Substance Use Status,Maternal Substance User,879
+2022,Medi-Cal,Substance Use Status,Unknown Substance Use Diagnosis,0
+2022,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,494
+2022,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,7454
+2022,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2022,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,773
+2022,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,7175
+2022,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Diagnosis,0
+2022,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,7796
+2022,Non-Medi-Cal,Smoking Status,Maternal Smoker,103
+2022,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,49
+2022,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,7864
+2022,Non-Medi-Cal,Substance Use Status,Maternal Substance User,84
+2022,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Diagnosis,0
+2023,Medi-Cal,Diabetes Status,Diabetes Diagnosis,1298
+2023,Medi-Cal,Diabetes Status,No Diabetes Diagnosis,10454
+2023,Medi-Cal,Diabetes Status,Unknown Diabetes Status,0
+2023,Medi-Cal,Hypertension Status,Hypertension Diagnosis,2877
+2023,Medi-Cal,Hypertension Status,No Hypertension Diagnosis,8875
+2023,Medi-Cal,Hypertension Status,Unknown Hypertension Status,0
+2023,Medi-Cal,Smoking Status,Maternal Non-Smoker,11401
+2023,Medi-Cal,Smoking Status,Maternal Smoker,270
+2023,Medi-Cal,Smoking Status,Unknown Smoking Status,81
+2023,Medi-Cal,Substance Use Status,Maternal Non-Substance User,10825
+2023,Medi-Cal,Substance Use Status,Maternal Substance User,927
+2023,Medi-Cal,Substance Use Status,Unknown Substance Use Status,0
+2023,Non-Medi-Cal,Diabetes Status,Diabetes Diagnosis,489
+2023,Non-Medi-Cal,Diabetes Status,No Diabetes Diagnosis,4417
+2023,Non-Medi-Cal,Diabetes Status,Unknown Diabetes Status,859
+2023,Non-Medi-Cal,Hypertension Status,Hypertension Diagnosis,826
+2023,Non-Medi-Cal,Hypertension Status,No Hypertension Diagnosis,4080
+2023,Non-Medi-Cal,Hypertension Status,Unknown Hypertension Status,859
+2023,Non-Medi-Cal,Smoking Status,Maternal Non-Smoker,5719
+2023,Non-Medi-Cal,Smoking Status,Maternal Smoker,31
+2023,Non-Medi-Cal,Smoking Status,Unknown Smoking Status,15
+2023,Non-Medi-Cal,Substance Use Status,Maternal Non-Substance User,4843
+2023,Non-Medi-Cal,Substance Use Status,Maternal Substance User,63
+2023,Non-Medi-Cal,Substance Use Status,Unknown Substance Use Status,859
