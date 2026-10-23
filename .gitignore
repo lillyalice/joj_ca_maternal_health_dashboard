@@ -1,10 +1,22 @@
+# Python virtual environments
 venv/
 .venv/
+
+# Python cache files
 __pycache__/
-.DS_Store
 *.pyc
+
+# macOS files
+.DS_Store
+
+# Existing excluded dataset
 cdc_15_23_final.csv
-# raw CDC/CDPH source files are too large to commit; only trimmed CSVs in data/time_series/ belong here
+
+# Raw CDC/CDPH source files are too large to commit
+# Only trimmed CSVs in data/time_series/ belong here
 *_racial_comp_*.csv
 *_racial_and_age_comp_*.csv
 Nat20*us.zip
+
+# Confidential Jewel of Justice survey data
+private_data/
