@@ -1,5 +1,5 @@
 """
-time_series/charts/payer.py
+time_series/charts/medi_cal_hypertension.py
 
 The Structural Layering of Maternal Risk chart: Medi-Cal share of births and
 hypertension rates by payer, from the CA DHCS notebook.
@@ -13,7 +13,7 @@ from streamlit_echarts import st_echarts, JsCode
 from time_series.common import CHART_KEY
 
 
-def render_payer_chart(rates, compare_private):
+def render_medi_cal_hypertension_chart(rates, compare_private):
     """ draws the Structural Layering of Maternal Risk chart
 
     Bars show Medi-Cal's share of births to African American mothers, with
@@ -75,15 +75,6 @@ def render_payer_chart(rates, compare_private):
             "lineStyle": {"width": 2.5, "type": "dashed", "color": "#1f77b4"}, "itemStyle": {"color": "#1f77b4"},
         })
     else:
-        # notebook annotation on the 2023 peak
-        last = years[-1]
-        medi_line["markPoint"] = {
-            "symbolSize": 0,
-            "label": {"show": True, "position": "left", "fontWeight": "bold", "color": "#000",
-                      "backgroundColor": "#fff", "borderColor": "#999", "borderWidth": 1, "padding": 4,
-                      "formatter": f"Surged to {medi.loc[last, 'hypertension_rate']:.1f}% in {last}\n(Nearly 1 in 4 Mothers)"},
-            "data": [{"coord": [str(last), round(medi.loc[last, 'hypertension_rate'], 1)]}],
-        }
         series.append(medi_line)
 
     right_axis_color = "#000" if compare_private else "#d95f02"
