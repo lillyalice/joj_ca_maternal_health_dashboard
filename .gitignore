@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 *.pyc
 cdc_15_23_final.csv
+# raw CDC/CDPH source files are too large to commit; only trimmed CSVs in data/time_series/ belong here
+*_racial_comp_*.csv
+*_racial_and_age_comp_*.csv
+Nat20*us.zip
