@@ -5,7 +5,8 @@ One-off script that trims the raw source files used by the Time Series tab
 into the small CSVs saved in data/time_series/. The raw files are not
 committed; re-run this only if the source data changes.
 
-Run in terminal with: python scripts/build_time_series_data.py <path to CDPH births CSV>
+Run in terminal with:
+python scripts/build_time_series_data.py <path to CDPH births CSV> <path to DHCS t10 CSV>
 
 """
 
@@ -59,5 +60,42 @@ def build_ca_births_by_age(cdph_path):
     print(f"wrote {len(out)} rows to ca_births_by_age.csv")
 
 
+def build_medi_cal_births(t10_path):
+    """ trims the DHCS Medi-Cal Birth Statistics table (t10) to African American births
+
+    Keeps 2014-2023 rows for African American mothers, both payers and all
+    groupers, matching the filtering in the CA DHCS notebook. Each birth is
+    listed once under every grouper (diabetes, hypertension, smoking,
+    substance use), so totals must be taken within a single grouper.
+
+    Parameters
+    ----------
+    t10_path : str
+        path to t10_detailedtables_2007-2023.csv
+
+    Returns
+    -------
+    None. Writes medi_cal_births_african_american.csv.
+    """
+
+    df = pd.read_csv(t10_path, encoding='latin1')
+
+    # removing the hidden BOM character and stray spaces from column names
+    df.columns = df.columns.str.replace('ï»¿', '').str.strip()
+
+    df = df[(df['Maternal Race/Ethnicity'] == 'African American') & (df['Calendar Year'] >= 2014)]
+
+    out = df[['Calendar Year', 'Payer', 'Grouper', 'Birth Characteristic', 'Number of Births']].rename(columns={
+        'Calendar Year': 'year', 'Payer': 'payer', 'Grouper': 'grouper',
+        'Birth Characteristic': 'characteristic', 'Number of Births': 'births'
+    })
+    out['births'] = out['births'].astype('Int64')
+
+    os.makedirs(CA_DIR, exist_ok=True)
+    out.to_csv(os.path.join(CA_DIR, 'medi_cal_births_african_american.csv'), index=False)
+    print(f"wrote {len(out)} rows to medi_cal_births_african_american.csv")
+
+
 if __name__ == '__main__':
     build_ca_births_by_age(sys.argv[1])
+    build_medi_cal_births(sys.argv[2])
