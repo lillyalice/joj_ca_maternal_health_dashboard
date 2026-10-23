@@ -1,0 +1,3829 @@
+year,COUNTY_NAME_SHORT,age_group,births
+2014,Alameda,20-24 years,2379
+2014,Alameda,25-29 years,4769
+2014,Alameda,30-34 years,6764
+2014,Alameda,35-39 years,4096
+2014,Alameda,40-44 years,993
+2014,Alameda,45 years and over,
+2015,Alameda,20-24 years,2188
+2015,Alameda,25-29 years,4574
+2015,Alameda,30-34 years,6881
+2015,Alameda,35-39 years,4196
+2015,Alameda,40-44 years,982
+2015,Alameda,45 years and over,
+2016,Alameda,20-24 years,2104
+2016,Alameda,25-29 years,4416
+2016,Alameda,30-34 years,7150
+2016,Alameda,35-39 years,4403
+2016,Alameda,40-44 years,988
+2016,Alameda,45 years and over,
+2017,Alameda,20-24 years,1867
+2017,Alameda,25-29 years,4117
+2017,Alameda,30-34 years,6836
+2017,Alameda,35-39 years,4517
+2017,Alameda,40-44 years,1061
+2017,Alameda,45 years and over,
+2018,Alameda,20-24 years,1703
+2018,Alameda,25-29 years,3791
+2018,Alameda,30-34 years,6698
+2018,Alameda,35-39 years,4546
+2018,Alameda,40-44 years,1031
+2018,Alameda,45 years and over,
+2019,Alameda,20-24 years,1568
+2019,Alameda,25-29 years,3837
+2019,Alameda,30-34 years,6705
+2019,Alameda,35-39 years,4657
+2019,Alameda,40-44 years,1007
+2019,Alameda,45 years and over,
+2020,Alameda,20-24 years,1492
+2020,Alameda,25-29 years,3470
+2020,Alameda,30-34 years,6496
+2020,Alameda,35-39 years,4482
+2020,Alameda,40-44 years,970
+2020,Alameda,45 years and over,
+2021,Alameda,20-24 years,1326
+2021,Alameda,25-29 years,3077
+2021,Alameda,30-34 years,6385
+2021,Alameda,35-39 years,4596
+2021,Alameda,40-44 years,1130
+2021,Alameda,45 years and over,
+2022,Alameda,20-24 years,1371
+2022,Alameda,25-29 years,2916
+2022,Alameda,30-34 years,6077
+2022,Alameda,35-39 years,4777
+2022,Alameda,40-44 years,1064
+2022,Alameda,45 years and over,91
+2023,Alameda,20-24 years,1333
+2023,Alameda,25-29 years,2869
+2023,Alameda,30-34 years,5923
+2023,Alameda,35-39 years,4517
+2023,Alameda,40-44 years,1143
+2023,Alameda,45 years and over,
+2024,Alameda,20-24 years,1317
+2024,Alameda,25-29 years,2834
+2024,Alameda,30-34 years,5859
+2024,Alameda,35-39 years,4579
+2024,Alameda,40-44 years,1107
+2024,Alameda,45 years and over,
+2014,Alpine,20-24 years,
+2014,Alpine,25-29 years,
+2014,Alpine,30-34 years,
+2014,Alpine,35-39 years,
+2014,Alpine,40-44 years,0
+2014,Alpine,45 years and over,0
+2015,Alpine,20-24 years,
+2015,Alpine,25-29 years,
+2015,Alpine,30-34 years,0
+2015,Alpine,35-39 years,0
+2015,Alpine,40-44 years,
+2015,Alpine,45 years and over,0
+2016,Alpine,20-24 years,0
+2016,Alpine,25-29 years,
+2016,Alpine,30-34 years,
+2016,Alpine,35-39 years,
+2016,Alpine,40-44 years,0
+2016,Alpine,45 years and over,0
+2017,Alpine,20-24 years,
+2017,Alpine,25-29 years,
+2017,Alpine,30-34 years,0
+2017,Alpine,35-39 years,
+2017,Alpine,40-44 years,0
+2017,Alpine,45 years and over,0
+2018,Alpine,20-24 years,
+2018,Alpine,25-29 years,0
+2018,Alpine,30-34 years,
+2018,Alpine,35-39 years,
+2018,Alpine,40-44 years,0
+2018,Alpine,45 years and over,0
+2019,Alpine,20-24 years,
+2019,Alpine,25-29 years,
+2019,Alpine,30-34 years,0
+2019,Alpine,35-39 years,
+2019,Alpine,40-44 years,0
+2019,Alpine,45 years and over,0
+2020,Alpine,20-24 years,
+2020,Alpine,25-29 years,
+2020,Alpine,30-34 years,
+2020,Alpine,35-39 years,
+2020,Alpine,40-44 years,
+2020,Alpine,45 years and over,0
+2021,Alpine,20-24 years,0
+2021,Alpine,25-29 years,
+2021,Alpine,30-34 years,0
+2021,Alpine,35-39 years,
+2021,Alpine,40-44 years,0
+2021,Alpine,45 years and over,0
+2022,Alpine,20-24 years,
+2022,Alpine,25-29 years,
+2022,Alpine,30-34 years,
+2022,Alpine,35-39 years,0
+2022,Alpine,40-44 years,0
+2022,Alpine,45 years and over,0
+2023,Alpine,20-24 years,0
+2023,Alpine,25-29 years,
+2023,Alpine,30-34 years,
+2023,Alpine,35-39 years,
+2023,Alpine,40-44 years,0
+2023,Alpine,45 years and over,0
+2024,Alpine,20-24 years,0
+2024,Alpine,25-29 years,
+2024,Alpine,30-34 years,
+2024,Alpine,35-39 years,
+2024,Alpine,40-44 years,
+2024,Alpine,45 years and over,0
+2014,Amador,20-24 years,64
+2014,Amador,25-29 years,96
+2014,Amador,30-34 years,82
+2014,Amador,35-39 years,26
+2014,Amador,40-44 years,
+2014,Amador,45 years and over,0
+2015,Amador,20-24 years,71
+2015,Amador,25-29 years,100
+2015,Amador,30-34 years,77
+2015,Amador,35-39 years,32
+2015,Amador,40-44 years,
+2015,Amador,45 years and over,0
+2016,Amador,20-24 years,69
+2016,Amador,25-29 years,97
+2016,Amador,30-34 years,79
+2016,Amador,35-39 years,38
+2016,Amador,40-44 years,
+2016,Amador,45 years and over,
+2017,Amador,20-24 years,64
+2017,Amador,25-29 years,102
+2017,Amador,30-34 years,76
+2017,Amador,35-39 years,49
+2017,Amador,40-44 years,
+2017,Amador,45 years and over,0
+2018,Amador,20-24 years,53
+2018,Amador,25-29 years,110
+2018,Amador,30-34 years,88
+2018,Amador,35-39 years,35
+2018,Amador,40-44 years,
+2018,Amador,45 years and over,0
+2019,Amador,20-24 years,49
+2019,Amador,25-29 years,102
+2019,Amador,30-34 years,92
+2019,Amador,35-39 years,45
+2019,Amador,40-44 years,
+2019,Amador,45 years and over,
+2020,Amador,20-24 years,44
+2020,Amador,25-29 years,86
+2020,Amador,30-34 years,92
+2020,Amador,35-39 years,34
+2020,Amador,40-44 years,
+2020,Amador,45 years and over,
+2021,Amador,20-24 years,54
+2021,Amador,25-29 years,119
+2021,Amador,30-34 years,121
+2021,Amador,35-39 years,36
+2021,Amador,40-44 years,
+2021,Amador,45 years and over,0
+2022,Amador,20-24 years,43
+2022,Amador,25-29 years,102
+2022,Amador,30-34 years,100
+2022,Amador,35-39 years,49
+2022,Amador,40-44 years,13
+2022,Amador,45 years and over,
+2023,Amador,20-24 years,47
+2023,Amador,25-29 years,91
+2023,Amador,30-34 years,85
+2023,Amador,35-39 years,59
+2023,Amador,40-44 years,17
+2023,Amador,45 years and over,
+2024,Amador,20-24 years,
+2024,Amador,25-29 years,95
+2024,Amador,30-34 years,97
+2024,Amador,35-39 years,42
+2024,Amador,40-44 years,
+2024,Amador,45 years and over,
+2014,Butte,20-24 years,584
+2014,Butte,25-29 years,807
+2014,Butte,30-34 years,647
+2014,Butte,35-39 years,235
+2014,Butte,40-44 years,47
+2014,Butte,45 years and over,
+2015,Butte,20-24 years,551
+2015,Butte,25-29 years,798
+2015,Butte,30-34 years,666
+2015,Butte,35-39 years,242
+2015,Butte,40-44 years,35
+2015,Butte,45 years and over,
+2016,Butte,20-24 years,524
+2016,Butte,25-29 years,792
+2016,Butte,30-34 years,671
+2016,Butte,35-39 years,312
+2016,Butte,40-44 years,61
+2016,Butte,45 years and over,
+2017,Butte,20-24 years,470
+2017,Butte,25-29 years,721
+2017,Butte,30-34 years,720
+2017,Butte,35-39 years,310
+2017,Butte,40-44 years,
+2017,Butte,45 years and over,
+2018,Butte,20-24 years,488
+2018,Butte,25-29 years,753
+2018,Butte,30-34 years,668
+2018,Butte,35-39 years,347
+2018,Butte,40-44 years,52
+2018,Butte,45 years and over,
+2019,Butte,20-24 years,391
+2019,Butte,25-29 years,633
+2019,Butte,30-34 years,637
+2019,Butte,35-39 years,332
+2019,Butte,40-44 years,65
+2019,Butte,45 years and over,
+2020,Butte,20-24 years,384
+2020,Butte,25-29 years,599
+2020,Butte,30-34 years,609
+2020,Butte,35-39 years,264
+2020,Butte,40-44 years,
+2020,Butte,45 years and over,
+2021,Butte,20-24 years,332
+2021,Butte,25-29 years,578
+2021,Butte,30-34 years,672
+2021,Butte,35-39 years,316
+2021,Butte,40-44 years,
+2021,Butte,45 years and over,
+2022,Butte,20-24 years,312
+2022,Butte,25-29 years,591
+2022,Butte,30-34 years,591
+2022,Butte,35-39 years,307
+2022,Butte,40-44 years,58
+2022,Butte,45 years and over,
+2023,Butte,20-24 years,342
+2023,Butte,25-29 years,569
+2023,Butte,30-34 years,647
+2023,Butte,35-39 years,319
+2023,Butte,40-44 years,80
+2023,Butte,45 years and over,
+2024,Butte,20-24 years,365
+2024,Butte,25-29 years,591
+2024,Butte,30-34 years,554
+2024,Butte,35-39 years,320
+2024,Butte,40-44 years,75
+2024,Butte,45 years and over,
+2014,Calaveras,20-24 years,88
+2014,Calaveras,25-29 years,106
+2014,Calaveras,30-34 years,97
+2014,Calaveras,35-39 years,37
+2014,Calaveras,40-44 years,
+2014,Calaveras,45 years and over,0
+2015,Calaveras,20-24 years,92
+2015,Calaveras,25-29 years,119
+2015,Calaveras,30-34 years,104
+2015,Calaveras,35-39 years,44
+2015,Calaveras,40-44 years,
+2015,Calaveras,45 years and over,0
+2016,Calaveras,20-24 years,87
+2016,Calaveras,25-29 years,120
+2016,Calaveras,30-34 years,104
+2016,Calaveras,35-39 years,42
+2016,Calaveras,40-44 years,
+2016,Calaveras,45 years and over,0
+2017,Calaveras,20-24 years,70
+2017,Calaveras,25-29 years,163
+2017,Calaveras,30-34 years,106
+2017,Calaveras,35-39 years,50
+2017,Calaveras,40-44 years,
+2017,Calaveras,45 years and over,0
+2018,Calaveras,20-24 years,86
+2018,Calaveras,25-29 years,131
+2018,Calaveras,30-34 years,90
+2018,Calaveras,35-39 years,51
+2018,Calaveras,40-44 years,
+2018,Calaveras,45 years and over,
+2019,Calaveras,20-24 years,85
+2019,Calaveras,25-29 years,125
+2019,Calaveras,30-34 years,119
+2019,Calaveras,35-39 years,46
+2019,Calaveras,40-44 years,13
+2019,Calaveras,45 years and over,
+2020,Calaveras,20-24 years,72
+2020,Calaveras,25-29 years,117
+2020,Calaveras,30-34 years,105
+2020,Calaveras,35-39 years,52
+2020,Calaveras,40-44 years,
+2020,Calaveras,45 years and over,
+2021,Calaveras,20-24 years,73
+2021,Calaveras,25-29 years,114
+2021,Calaveras,30-34 years,142
+2021,Calaveras,35-39 years,43
+2021,Calaveras,40-44 years,
+2021,Calaveras,45 years and over,
+2022,Calaveras,20-24 years,71
+2022,Calaveras,25-29 years,96
+2022,Calaveras,30-34 years,127
+2022,Calaveras,35-39 years,53
+2022,Calaveras,40-44 years,
+2022,Calaveras,45 years and over,
+2023,Calaveras,20-24 years,60
+2023,Calaveras,25-29 years,126
+2023,Calaveras,30-34 years,111
+2023,Calaveras,35-39 years,65
+2023,Calaveras,40-44 years,
+2023,Calaveras,45 years and over,0
+2024,Calaveras,20-24 years,59
+2024,Calaveras,25-29 years,101
+2024,Calaveras,30-34 years,106
+2024,Calaveras,35-39 years,72
+2024,Calaveras,40-44 years,
+2024,Calaveras,45 years and over,
+2014,Colusa,20-24 years,72
+2014,Colusa,25-29 years,76
+2014,Colusa,30-34 years,73
+2014,Colusa,35-39 years,32
+2014,Colusa,40-44 years,
+2014,Colusa,45 years and over,0
+2015,Colusa,20-24 years,78
+2015,Colusa,25-29 years,94
+2015,Colusa,30-34 years,64
+2015,Colusa,35-39 years,31
+2015,Colusa,40-44 years,
+2015,Colusa,45 years and over,0
+2016,Colusa,20-24 years,76
+2016,Colusa,25-29 years,90
+2016,Colusa,30-34 years,83
+2016,Colusa,35-39 years,40
+2016,Colusa,40-44 years,
+2016,Colusa,45 years and over,
+2017,Colusa,20-24 years,68
+2017,Colusa,25-29 years,84
+2017,Colusa,30-34 years,76
+2017,Colusa,35-39 years,40
+2017,Colusa,40-44 years,
+2017,Colusa,45 years and over,
+2018,Colusa,20-24 years,56
+2018,Colusa,25-29 years,82
+2018,Colusa,30-34 years,71
+2018,Colusa,35-39 years,33
+2018,Colusa,40-44 years,
+2018,Colusa,45 years and over,
+2019,Colusa,20-24 years,57
+2019,Colusa,25-29 years,80
+2019,Colusa,30-34 years,67
+2019,Colusa,35-39 years,28
+2019,Colusa,40-44 years,
+2019,Colusa,45 years and over,0
+2020,Colusa,20-24 years,59
+2020,Colusa,25-29 years,80
+2020,Colusa,30-34 years,76
+2020,Colusa,35-39 years,49
+2020,Colusa,40-44 years,
+2020,Colusa,45 years and over,
+2021,Colusa,20-24 years,51
+2021,Colusa,25-29 years,102
+2021,Colusa,30-34 years,74
+2021,Colusa,35-39 years,38
+2021,Colusa,40-44 years,
+2021,Colusa,45 years and over,
+2022,Colusa,20-24 years,66
+2022,Colusa,25-29 years,79
+2022,Colusa,30-34 years,77
+2022,Colusa,35-39 years,42
+2022,Colusa,40-44 years,
+2022,Colusa,45 years and over,0
+2023,Colusa,20-24 years,43
+2023,Colusa,25-29 years,60
+2023,Colusa,30-34 years,70
+2023,Colusa,35-39 years,41
+2023,Colusa,40-44 years,13
+2023,Colusa,45 years and over,0
+2024,Colusa,20-24 years,43
+2024,Colusa,25-29 years,81
+2024,Colusa,30-34 years,78
+2024,Colusa,35-39 years,37
+2024,Colusa,40-44 years,12
+2024,Colusa,45 years and over,0
+2014,Contra Costa,20-24 years,1733
+2014,Contra Costa,25-29 years,3107
+2014,Contra Costa,30-34 years,4131
+2014,Contra Costa,35-39 years,2512
+2014,Contra Costa,40-44 years,588
+2014,Contra Costa,45 years and over,
+2015,Contra Costa,20-24 years,1692
+2015,Contra Costa,25-29 years,3056
+2015,Contra Costa,30-34 years,4190
+2015,Contra Costa,35-39 years,2587
+2015,Contra Costa,40-44 years,626
+2015,Contra Costa,45 years and over,
+2016,Contra Costa,20-24 years,1535
+2016,Contra Costa,25-29 years,3047
+2016,Contra Costa,30-34 years,4206
+2016,Contra Costa,35-39 years,2547
+2016,Contra Costa,40-44 years,605
+2016,Contra Costa,45 years and over,
+2017,Contra Costa,20-24 years,1424
+2017,Contra Costa,25-29 years,2907
+2017,Contra Costa,30-34 years,4263
+2017,Contra Costa,35-39 years,2554
+2017,Contra Costa,40-44 years,635
+2017,Contra Costa,45 years and over,
+2018,Contra Costa,20-24 years,1385
+2018,Contra Costa,25-29 years,2785
+2018,Contra Costa,30-34 years,4149
+2018,Contra Costa,35-39 years,2704
+2018,Contra Costa,40-44 years,609
+2018,Contra Costa,45 years and over,
+2019,Contra Costa,20-24 years,1306
+2019,Contra Costa,25-29 years,2678
+2019,Contra Costa,30-34 years,4145
+2019,Contra Costa,35-39 years,2724
+2019,Contra Costa,40-44 years,625
+2019,Contra Costa,45 years and over,
+2020,Contra Costa,20-24 years,1250
+2020,Contra Costa,25-29 years,2600
+2020,Contra Costa,30-34 years,4123
+2020,Contra Costa,35-39 years,2892
+2020,Contra Costa,40-44 years,630
+2020,Contra Costa,45 years and over,
+2021,Contra Costa,20-24 years,1204
+2021,Contra Costa,25-29 years,2504
+2021,Contra Costa,30-34 years,4086
+2021,Contra Costa,35-39 years,3124
+2021,Contra Costa,40-44 years,693
+2021,Contra Costa,45 years and over,
+2022,Contra Costa,20-24 years,1188
+2022,Contra Costa,25-29 years,2302
+2022,Contra Costa,30-34 years,4023
+2022,Contra Costa,35-39 years,3049
+2022,Contra Costa,40-44 years,741
+2022,Contra Costa,45 years and over,
+2023,Contra Costa,20-24 years,1053
+2023,Contra Costa,25-29 years,2275
+2023,Contra Costa,30-34 years,3819
+2023,Contra Costa,35-39 years,3025
+2023,Contra Costa,40-44 years,730
+2023,Contra Costa,45 years and over,
+2024,Contra Costa,20-24 years,1001
+2024,Contra Costa,25-29 years,2227
+2024,Contra Costa,30-34 years,3736
+2024,Contra Costa,35-39 years,2882
+2024,Contra Costa,40-44 years,759
+2024,Contra Costa,45 years and over,
+2014,Del Norte,20-24 years,92
+2014,Del Norte,25-29 years,93
+2014,Del Norte,30-34 years,72
+2014,Del Norte,35-39 years,27
+2014,Del Norte,40-44 years,
+2014,Del Norte,45 years and over,
+2015,Del Norte,20-24 years,76
+2015,Del Norte,25-29 years,87
+2015,Del Norte,30-34 years,68
+2015,Del Norte,35-39 years,26
+2015,Del Norte,40-44 years,
+2015,Del Norte,45 years and over,
+2016,Del Norte,20-24 years,83
+2016,Del Norte,25-29 years,93
+2016,Del Norte,30-34 years,67
+2016,Del Norte,35-39 years,27
+2016,Del Norte,40-44 years,
+2016,Del Norte,45 years and over,0
+2017,Del Norte,20-24 years,67
+2017,Del Norte,25-29 years,76
+2017,Del Norte,30-34 years,65
+2017,Del Norte,35-39 years,28
+2017,Del Norte,40-44 years,
+2017,Del Norte,45 years and over,0
+2018,Del Norte,20-24 years,63
+2018,Del Norte,25-29 years,90
+2018,Del Norte,30-34 years,64
+2018,Del Norte,35-39 years,34
+2018,Del Norte,40-44 years,11
+2018,Del Norte,45 years and over,0
+2019,Del Norte,20-24 years,79
+2019,Del Norte,25-29 years,95
+2019,Del Norte,30-34 years,55
+2019,Del Norte,35-39 years,29
+2019,Del Norte,40-44 years,
+2019,Del Norte,45 years and over,0
+2020,Del Norte,20-24 years,58
+2020,Del Norte,25-29 years,80
+2020,Del Norte,30-34 years,55
+2020,Del Norte,35-39 years,38
+2020,Del Norte,40-44 years,13
+2020,Del Norte,45 years and over,0
+2021,Del Norte,20-24 years,69
+2021,Del Norte,25-29 years,91
+2021,Del Norte,30-34 years,55
+2021,Del Norte,35-39 years,32
+2021,Del Norte,40-44 years,
+2021,Del Norte,45 years and over,0
+2022,Del Norte,20-24 years,62
+2022,Del Norte,25-29 years,80
+2022,Del Norte,30-34 years,73
+2022,Del Norte,35-39 years,36
+2022,Del Norte,40-44 years,
+2022,Del Norte,45 years and over,0
+2023,Del Norte,20-24 years,45
+2023,Del Norte,25-29 years,89
+2023,Del Norte,30-34 years,57
+2023,Del Norte,35-39 years,33
+2023,Del Norte,40-44 years,
+2023,Del Norte,45 years and over,0
+2024,Del Norte,20-24 years,52
+2024,Del Norte,25-29 years,79
+2024,Del Norte,30-34 years,64
+2024,Del Norte,35-39 years,36
+2024,Del Norte,40-44 years,
+2024,Del Norte,45 years and over,
+2014,El Dorado,20-24 years,252
+2014,El Dorado,25-29 years,484
+2014,El Dorado,30-34 years,503
+2014,El Dorado,35-39 years,256
+2014,El Dorado,40-44 years,
+2014,El Dorado,45 years and over,
+2015,El Dorado,20-24 years,241
+2015,El Dorado,25-29 years,459
+2015,El Dorado,30-34 years,526
+2015,El Dorado,35-39 years,266
+2015,El Dorado,40-44 years,52
+2015,El Dorado,45 years and over,
+2016,El Dorado,20-24 years,202
+2016,El Dorado,25-29 years,451
+2016,El Dorado,30-34 years,557
+2016,El Dorado,35-39 years,282
+2016,El Dorado,40-44 years,56
+2016,El Dorado,45 years and over,
+2017,El Dorado,20-24 years,226
+2017,El Dorado,25-29 years,428
+2017,El Dorado,30-34 years,514
+2017,El Dorado,35-39 years,289
+2017,El Dorado,40-44 years,54
+2017,El Dorado,45 years and over,
+2018,El Dorado,20-24 years,230
+2018,El Dorado,25-29 years,419
+2018,El Dorado,30-34 years,584
+2018,El Dorado,35-39 years,317
+2018,El Dorado,40-44 years,80
+2018,El Dorado,45 years and over,
+2019,El Dorado,20-24 years,166
+2019,El Dorado,25-29 years,394
+2019,El Dorado,30-34 years,525
+2019,El Dorado,35-39 years,351
+2019,El Dorado,40-44 years,57
+2019,El Dorado,45 years and over,13
+2020,El Dorado,20-24 years,188
+2020,El Dorado,25-29 years,335
+2020,El Dorado,30-34 years,522
+2020,El Dorado,35-39 years,323
+2020,El Dorado,40-44 years,80
+2020,El Dorado,45 years and over,
+2021,El Dorado,20-24 years,167
+2021,El Dorado,25-29 years,377
+2021,El Dorado,30-34 years,597
+2021,El Dorado,35-39 years,346
+2021,El Dorado,40-44 years,76
+2021,El Dorado,45 years and over,
+2022,El Dorado,20-24 years,144
+2022,El Dorado,25-29 years,390
+2022,El Dorado,30-34 years,557
+2022,El Dorado,35-39 years,352
+2022,El Dorado,40-44 years,84
+2022,El Dorado,45 years and over,
+2023,El Dorado,20-24 years,141
+2023,El Dorado,25-29 years,327
+2023,El Dorado,30-34 years,522
+2023,El Dorado,35-39 years,337
+2023,El Dorado,40-44 years,83
+2023,El Dorado,45 years and over,
+2024,El Dorado,20-24 years,166
+2024,El Dorado,25-29 years,344
+2024,El Dorado,30-34 years,539
+2024,El Dorado,35-39 years,354
+2024,El Dorado,40-44 years,83
+2024,El Dorado,45 years and over,
+2014,Fresno,20-24 years,4114
+2014,Fresno,25-29 years,4605
+2014,Fresno,30-34 years,3677
+2014,Fresno,35-39 years,1687
+2014,Fresno,40-44 years,392
+2014,Fresno,45 years and over,
+2015,Fresno,20-24 years,3652
+2015,Fresno,25-29 years,4513
+2015,Fresno,30-34 years,3785
+2015,Fresno,35-39 years,1791
+2015,Fresno,40-44 years,410
+2015,Fresno,45 years and over,
+2016,Fresno,20-24 years,3495
+2016,Fresno,25-29 years,4595
+2016,Fresno,30-34 years,3739
+2016,Fresno,35-39 years,1786
+2016,Fresno,40-44 years,371
+2016,Fresno,45 years and over,29
+2017,Fresno,20-24 years,3310
+2017,Fresno,25-29 years,4321
+2017,Fresno,30-34 years,3706
+2017,Fresno,35-39 years,1790
+2017,Fresno,40-44 years,449
+2017,Fresno,45 years and over,
+2018,Fresno,20-24 years,3102
+2018,Fresno,25-29 years,4281
+2018,Fresno,30-34 years,3716
+2018,Fresno,35-39 years,1891
+2018,Fresno,40-44 years,465
+2018,Fresno,45 years and over,42
+2019,Fresno,20-24 years,2895
+2019,Fresno,25-29 years,4279
+2019,Fresno,30-34 years,3703
+2019,Fresno,35-39 years,2004
+2019,Fresno,40-44 years,402
+2019,Fresno,45 years and over,
+2020,Fresno,20-24 years,2809
+2020,Fresno,25-29 years,4161
+2020,Fresno,30-34 years,3783
+2020,Fresno,35-39 years,1873
+2020,Fresno,40-44 years,437
+2020,Fresno,45 years and over,
+2021,Fresno,20-24 years,2861
+2021,Fresno,25-29 years,4145
+2021,Fresno,30-34 years,3895
+2021,Fresno,35-39 years,1948
+2021,Fresno,40-44 years,435
+2021,Fresno,45 years and over,
+2022,Fresno,20-24 years,2681
+2022,Fresno,25-29 years,4118
+2022,Fresno,30-34 years,3979
+2022,Fresno,35-39 years,2023
+2022,Fresno,40-44 years,480
+2022,Fresno,45 years and over,
+2023,Fresno,20-24 years,2340
+2023,Fresno,25-29 years,3743
+2023,Fresno,30-34 years,3895
+2023,Fresno,35-39 years,2056
+2023,Fresno,40-44 years,461
+2023,Fresno,45 years and over,
+2024,Fresno,20-24 years,2407
+2024,Fresno,25-29 years,3789
+2024,Fresno,30-34 years,3812
+2024,Fresno,35-39 years,2086
+2024,Fresno,40-44 years,511
+2024,Fresno,45 years and over,
+2014,Glenn,20-24 years,100
+2014,Glenn,25-29 years,151
+2014,Glenn,30-34 years,90
+2014,Glenn,35-39 years,38
+2014,Glenn,40-44 years,
+2014,Glenn,45 years and over,
+2015,Glenn,20-24 years,88
+2015,Glenn,25-29 years,117
+2015,Glenn,30-34 years,84
+2015,Glenn,35-39 years,46
+2015,Glenn,40-44 years,
+2015,Glenn,45 years and over,
+2016,Glenn,20-24 years,108
+2016,Glenn,25-29 years,119
+2016,Glenn,30-34 years,73
+2016,Glenn,35-39 years,50
+2016,Glenn,40-44 years,
+2016,Glenn,45 years and over,
+2017,Glenn,20-24 years,94
+2017,Glenn,25-29 years,135
+2017,Glenn,30-34 years,85
+2017,Glenn,35-39 years,33
+2017,Glenn,40-44 years,
+2017,Glenn,45 years and over,0
+2018,Glenn,20-24 years,83
+2018,Glenn,25-29 years,121
+2018,Glenn,30-34 years,92
+2018,Glenn,35-39 years,40
+2018,Glenn,40-44 years,
+2018,Glenn,45 years and over,
+2019,Glenn,20-24 years,76
+2019,Glenn,25-29 years,134
+2019,Glenn,30-34 years,115
+2019,Glenn,35-39 years,49
+2019,Glenn,40-44 years,
+2019,Glenn,45 years and over,0
+2020,Glenn,20-24 years,69
+2020,Glenn,25-29 years,129
+2020,Glenn,30-34 years,95
+2020,Glenn,35-39 years,44
+2020,Glenn,40-44 years,
+2020,Glenn,45 years and over,
+2021,Glenn,20-24 years,92
+2021,Glenn,25-29 years,101
+2021,Glenn,30-34 years,86
+2021,Glenn,35-39 years,49
+2021,Glenn,40-44 years,
+2021,Glenn,45 years and over,
+2022,Glenn,20-24 years,76
+2022,Glenn,25-29 years,122
+2022,Glenn,30-34 years,91
+2022,Glenn,35-39 years,49
+2022,Glenn,40-44 years,16
+2022,Glenn,45 years and over,
+2023,Glenn,20-24 years,54
+2023,Glenn,25-29 years,93
+2023,Glenn,30-34 years,101
+2023,Glenn,35-39 years,45
+2023,Glenn,40-44 years,
+2023,Glenn,45 years and over,
+2024,Glenn,20-24 years,60
+2024,Glenn,25-29 years,102
+2024,Glenn,30-34 years,92
+2024,Glenn,35-39 years,57
+2024,Glenn,40-44 years,
+2024,Glenn,45 years and over,
+2014,Humboldt,20-24 years,306
+2014,Humboldt,25-29 years,436
+2014,Humboldt,30-34 years,408
+2014,Humboldt,35-39 years,201
+2014,Humboldt,40-44 years,
+2014,Humboldt,45 years and over,
+2015,Humboldt,20-24 years,281
+2015,Humboldt,25-29 years,429
+2015,Humboldt,30-34 years,408
+2015,Humboldt,35-39 years,221
+2015,Humboldt,40-44 years,
+2015,Humboldt,45 years and over,
+2016,Humboldt,20-24 years,261
+2016,Humboldt,25-29 years,484
+2016,Humboldt,30-34 years,394
+2016,Humboldt,35-39 years,253
+2016,Humboldt,40-44 years,
+2016,Humboldt,45 years and over,
+2017,Humboldt,20-24 years,277
+2017,Humboldt,25-29 years,395
+2017,Humboldt,30-34 years,378
+2017,Humboldt,35-39 years,222
+2017,Humboldt,40-44 years,50
+2017,Humboldt,45 years and over,
+2018,Humboldt,20-24 years,227
+2018,Humboldt,25-29 years,432
+2018,Humboldt,30-34 years,392
+2018,Humboldt,35-39 years,216
+2018,Humboldt,40-44 years,
+2018,Humboldt,45 years and over,
+2019,Humboldt,20-24 years,248
+2019,Humboldt,25-29 years,417
+2019,Humboldt,30-34 years,390
+2019,Humboldt,35-39 years,243
+2019,Humboldt,40-44 years,46
+2019,Humboldt,45 years and over,
+2020,Humboldt,20-24 years,225
+2020,Humboldt,25-29 years,351
+2020,Humboldt,30-34 years,355
+2020,Humboldt,35-39 years,236
+2020,Humboldt,40-44 years,43
+2020,Humboldt,45 years and over,
+2021,Humboldt,20-24 years,190
+2021,Humboldt,25-29 years,348
+2021,Humboldt,30-34 years,406
+2021,Humboldt,35-39 years,223
+2021,Humboldt,40-44 years,50
+2021,Humboldt,45 years and over,
+2022,Humboldt,20-24 years,164
+2022,Humboldt,25-29 years,335
+2022,Humboldt,30-34 years,373
+2022,Humboldt,35-39 years,238
+2022,Humboldt,40-44 years,52
+2022,Humboldt,45 years and over,
+2023,Humboldt,20-24 years,161
+2023,Humboldt,25-29 years,300
+2023,Humboldt,30-34 years,333
+2023,Humboldt,35-39 years,189
+2023,Humboldt,40-44 years,43
+2023,Humboldt,45 years and over,
+2024,Humboldt,20-24 years,164
+2024,Humboldt,25-29 years,257
+2024,Humboldt,30-34 years,336
+2024,Humboldt,35-39 years,214
+2024,Humboldt,40-44 years,62
+2024,Humboldt,45 years and over,
+2014,Imperial,20-24 years,891
+2014,Imperial,25-29 years,960
+2014,Imperial,30-34 years,746
+2014,Imperial,35-39 years,303
+2014,Imperial,40-44 years,62
+2014,Imperial,45 years and over,
+2015,Imperial,20-24 years,848
+2015,Imperial,25-29 years,969
+2015,Imperial,30-34 years,726
+2015,Imperial,35-39 years,307
+2015,Imperial,40-44 years,81
+2015,Imperial,45 years and over,
+2016,Imperial,20-24 years,758
+2016,Imperial,25-29 years,950
+2016,Imperial,30-34 years,675
+2016,Imperial,35-39 years,343
+2016,Imperial,40-44 years,62
+2016,Imperial,45 years and over,0
+2017,Imperial,20-24 years,725
+2017,Imperial,25-29 years,884
+2017,Imperial,30-34 years,692
+2017,Imperial,35-39 years,347
+2017,Imperial,40-44 years,59
+2017,Imperial,45 years and over,
+2018,Imperial,20-24 years,611
+2018,Imperial,25-29 years,868
+2018,Imperial,30-34 years,641
+2018,Imperial,35-39 years,288
+2018,Imperial,40-44 years,65
+2018,Imperial,45 years and over,
+2019,Imperial,20-24 years,578
+2019,Imperial,25-29 years,855
+2019,Imperial,30-34 years,654
+2019,Imperial,35-39 years,327
+2019,Imperial,40-44 years,48
+2019,Imperial,45 years and over,
+2020,Imperial,20-24 years,488
+2020,Imperial,25-29 years,781
+2020,Imperial,30-34 years,667
+2020,Imperial,35-39 years,293
+2020,Imperial,40-44 years,
+2020,Imperial,45 years and over,
+2021,Imperial,20-24 years,514
+2021,Imperial,25-29 years,800
+2021,Imperial,30-34 years,635
+2021,Imperial,35-39 years,325
+2021,Imperial,40-44 years,
+2021,Imperial,45 years and over,
+2022,Imperial,20-24 years,560
+2022,Imperial,25-29 years,822
+2022,Imperial,30-34 years,735
+2022,Imperial,35-39 years,352
+2022,Imperial,40-44 years,58
+2022,Imperial,45 years and over,
+2023,Imperial,20-24 years,473
+2023,Imperial,25-29 years,695
+2023,Imperial,30-34 years,660
+2023,Imperial,35-39 years,335
+2023,Imperial,40-44 years,75
+2023,Imperial,45 years and over,
+2024,Imperial,20-24 years,448
+2024,Imperial,25-29 years,631
+2024,Imperial,30-34 years,670
+2024,Imperial,35-39 years,348
+2024,Imperial,40-44 years,
+2024,Imperial,45 years and over,
+2014,Inyo,20-24 years,49
+2014,Inyo,25-29 years,68
+2014,Inyo,30-34 years,55
+2014,Inyo,35-39 years,31
+2014,Inyo,40-44 years,
+2014,Inyo,45 years and over,0
+2015,Inyo,20-24 years,45
+2015,Inyo,25-29 years,67
+2015,Inyo,30-34 years,54
+2015,Inyo,35-39 years,18
+2015,Inyo,40-44 years,
+2015,Inyo,45 years and over,0
+2016,Inyo,20-24 years,36
+2016,Inyo,25-29 years,60
+2016,Inyo,30-34 years,40
+2016,Inyo,35-39 years,22
+2016,Inyo,40-44 years,
+2016,Inyo,45 years and over,
+2017,Inyo,20-24 years,58
+2017,Inyo,25-29 years,59
+2017,Inyo,30-34 years,48
+2017,Inyo,35-39 years,30
+2017,Inyo,40-44 years,
+2017,Inyo,45 years and over,
+2018,Inyo,20-24 years,37
+2018,Inyo,25-29 years,52
+2018,Inyo,30-34 years,45
+2018,Inyo,35-39 years,21
+2018,Inyo,40-44 years,
+2018,Inyo,45 years and over,0
+2019,Inyo,20-24 years,43
+2019,Inyo,25-29 years,64
+2019,Inyo,30-34 years,47
+2019,Inyo,35-39 years,20
+2019,Inyo,40-44 years,
+2019,Inyo,45 years and over,0
+2020,Inyo,20-24 years,26
+2020,Inyo,25-29 years,48
+2020,Inyo,30-34 years,50
+2020,Inyo,35-39 years,31
+2020,Inyo,40-44 years,
+2020,Inyo,45 years and over,
+2021,Inyo,20-24 years,26
+2021,Inyo,25-29 years,59
+2021,Inyo,30-34 years,42
+2021,Inyo,35-39 years,21
+2021,Inyo,40-44 years,
+2021,Inyo,45 years and over,0
+2022,Inyo,20-24 years,21
+2022,Inyo,25-29 years,31
+2022,Inyo,30-34 years,56
+2022,Inyo,35-39 years,24
+2022,Inyo,40-44 years,
+2022,Inyo,45 years and over,0
+2023,Inyo,20-24 years,30
+2023,Inyo,25-29 years,37
+2023,Inyo,30-34 years,36
+2023,Inyo,35-39 years,20
+2023,Inyo,40-44 years,
+2023,Inyo,45 years and over,0
+2024,Inyo,20-24 years,
+2024,Inyo,25-29 years,32
+2024,Inyo,30-34 years,39
+2024,Inyo,35-39 years,24
+2024,Inyo,40-44 years,
+2024,Inyo,45 years and over,
+2014,Kern,20-24 years,4045
+2014,Kern,25-29 years,4096
+2014,Kern,30-34 years,3020
+2014,Kern,35-39 years,1340
+2014,Kern,40-44 years,277
+2014,Kern,45 years and over,26
+2015,Kern,20-24 years,3682
+2015,Kern,25-29 years,4188
+2015,Kern,30-34 years,3002
+2015,Kern,35-39 years,1330
+2015,Kern,40-44 years,314
+2015,Kern,45 years and over,25
+2016,Kern,20-24 years,3525
+2016,Kern,25-29 years,4134
+2016,Kern,30-34 years,3193
+2016,Kern,35-39 years,1408
+2016,Kern,40-44 years,338
+2016,Kern,45 years and over,
+2017,Kern,20-24 years,3365
+2017,Kern,25-29 years,4137
+2017,Kern,30-34 years,3079
+2017,Kern,35-39 years,1408
+2017,Kern,40-44 years,303
+2017,Kern,45 years and over,28
+2018,Kern,20-24 years,3093
+2018,Kern,25-29 years,4021
+2018,Kern,30-34 years,2987
+2018,Kern,35-39 years,1475
+2018,Kern,40-44 years,337
+2018,Kern,45 years and over,
+2019,Kern,20-24 years,3017
+2019,Kern,25-29 years,4049
+2019,Kern,30-34 years,3049
+2019,Kern,35-39 years,1459
+2019,Kern,40-44 years,341
+2019,Kern,45 years and over,
+2020,Kern,20-24 years,2848
+2020,Kern,25-29 years,3920
+2020,Kern,30-34 years,3063
+2020,Kern,35-39 years,1453
+2020,Kern,40-44 years,333
+2020,Kern,45 years and over,
+2021,Kern,20-24 years,2769
+2021,Kern,25-29 years,3842
+2021,Kern,30-34 years,3274
+2021,Kern,35-39 years,1502
+2021,Kern,40-44 years,365
+2021,Kern,45 years and over,48
+2022,Kern,20-24 years,2695
+2022,Kern,25-29 years,3815
+2022,Kern,30-34 years,3353
+2022,Kern,35-39 years,1555
+2022,Kern,40-44 years,371
+2022,Kern,45 years and over,
+2023,Kern,20-24 years,2463
+2023,Kern,25-29 years,3601
+2023,Kern,30-34 years,3266
+2023,Kern,35-39 years,1649
+2023,Kern,40-44 years,382
+2023,Kern,45 years and over,
+2024,Kern,20-24 years,2393
+2024,Kern,25-29 years,3419
+2024,Kern,30-34 years,3267
+2024,Kern,35-39 years,1622
+2024,Kern,40-44 years,401
+2024,Kern,45 years and over,
+2014,Kings,20-24 years,677
+2014,Kings,25-29 years,726
+2014,Kings,30-34 years,500
+2014,Kings,35-39 years,208
+2014,Kings,40-44 years,38
+2014,Kings,45 years and over,
+2015,Kings,20-24 years,611
+2015,Kings,25-29 years,706
+2015,Kings,30-34 years,490
+2015,Kings,35-39 years,224
+2015,Kings,40-44 years,
+2015,Kings,45 years and over,
+2016,Kings,20-24 years,625
+2016,Kings,25-29 years,691
+2016,Kings,30-34 years,517
+2016,Kings,35-39 years,191
+2016,Kings,40-44 years,
+2016,Kings,45 years and over,
+2017,Kings,20-24 years,607
+2017,Kings,25-29 years,747
+2017,Kings,30-34 years,543
+2017,Kings,35-39 years,257
+2017,Kings,40-44 years,
+2017,Kings,45 years and over,
+2018,Kings,20-24 years,582
+2018,Kings,25-29 years,729
+2018,Kings,30-34 years,535
+2018,Kings,35-39 years,232
+2018,Kings,40-44 years,
+2018,Kings,45 years and over,
+2019,Kings,20-24 years,516
+2019,Kings,25-29 years,678
+2019,Kings,30-34 years,519
+2019,Kings,35-39 years,211
+2019,Kings,40-44 years,50
+2019,Kings,45 years and over,
+2020,Kings,20-24 years,565
+2020,Kings,25-29 years,696
+2020,Kings,30-34 years,564
+2020,Kings,35-39 years,233
+2020,Kings,40-44 years,51
+2020,Kings,45 years and over,
+2021,Kings,20-24 years,513
+2021,Kings,25-29 years,685
+2021,Kings,30-34 years,557
+2021,Kings,35-39 years,249
+2021,Kings,40-44 years,47
+2021,Kings,45 years and over,
+2022,Kings,20-24 years,470
+2022,Kings,25-29 years,637
+2022,Kings,30-34 years,534
+2022,Kings,35-39 years,248
+2022,Kings,40-44 years,
+2022,Kings,45 years and over,
+2023,Kings,20-24 years,425
+2023,Kings,25-29 years,649
+2023,Kings,30-34 years,554
+2023,Kings,35-39 years,233
+2023,Kings,40-44 years,66
+2023,Kings,45 years and over,
+2024,Kings,20-24 years,501
+2024,Kings,25-29 years,703
+2024,Kings,30-34 years,560
+2024,Kings,35-39 years,261
+2024,Kings,40-44 years,
+2024,Kings,45 years and over,
+2014,Lake,20-24 years,205
+2014,Lake,25-29 years,237
+2014,Lake,30-34 years,153
+2014,Lake,35-39 years,69
+2014,Lake,40-44 years,
+2014,Lake,45 years and over,
+2015,Lake,20-24 years,185
+2015,Lake,25-29 years,225
+2015,Lake,30-34 years,167
+2015,Lake,35-39 years,76
+2015,Lake,40-44 years,
+2015,Lake,45 years and over,
+2016,Lake,20-24 years,192
+2016,Lake,25-29 years,242
+2016,Lake,30-34 years,178
+2016,Lake,35-39 years,73
+2016,Lake,40-44 years,14
+2016,Lake,45 years and over,
+2017,Lake,20-24 years,202
+2017,Lake,25-29 years,241
+2017,Lake,30-34 years,158
+2017,Lake,35-39 years,76
+2017,Lake,40-44 years,17
+2017,Lake,45 years and over,
+2018,Lake,20-24 years,162
+2018,Lake,25-29 years,243
+2018,Lake,30-34 years,182
+2018,Lake,35-39 years,74
+2018,Lake,40-44 years,16
+2018,Lake,45 years and over,
+2019,Lake,20-24 years,167
+2019,Lake,25-29 years,212
+2019,Lake,30-34 years,202
+2019,Lake,35-39 years,88
+2019,Lake,40-44 years,
+2019,Lake,45 years and over,
+2020,Lake,20-24 years,158
+2020,Lake,25-29 years,217
+2020,Lake,30-34 years,175
+2020,Lake,35-39 years,90
+2020,Lake,40-44 years,
+2020,Lake,45 years and over,
+2021,Lake,20-24 years,143
+2021,Lake,25-29 years,206
+2021,Lake,30-34 years,166
+2021,Lake,35-39 years,90
+2021,Lake,40-44 years,
+2021,Lake,45 years and over,
+2022,Lake,20-24 years,124
+2022,Lake,25-29 years,238
+2022,Lake,30-34 years,178
+2022,Lake,35-39 years,94
+2022,Lake,40-44 years,22
+2022,Lake,45 years and over,0
+2023,Lake,20-24 years,108
+2023,Lake,25-29 years,191
+2023,Lake,30-34 years,163
+2023,Lake,35-39 years,82
+2023,Lake,40-44 years,
+2023,Lake,45 years and over,
+2024,Lake,20-24 years,126
+2024,Lake,25-29 years,191
+2024,Lake,30-34 years,189
+2024,Lake,35-39 years,106
+2024,Lake,40-44 years,24
+2024,Lake,45 years and over,0
+2014,Lassen,20-24 years,104
+2014,Lassen,25-29 years,103
+2014,Lassen,30-34 years,65
+2014,Lassen,35-39 years,31
+2014,Lassen,40-44 years,
+2014,Lassen,45 years and over,0
+2015,Lassen,20-24 years,79
+2015,Lassen,25-29 years,99
+2015,Lassen,30-34 years,60
+2015,Lassen,35-39 years,34
+2015,Lassen,40-44 years,
+2015,Lassen,45 years and over,
+2016,Lassen,20-24 years,78
+2016,Lassen,25-29 years,104
+2016,Lassen,30-34 years,74
+2016,Lassen,35-39 years,29
+2016,Lassen,40-44 years,
+2016,Lassen,45 years and over,0
+2017,Lassen,20-24 years,84
+2017,Lassen,25-29 years,100
+2017,Lassen,30-34 years,64
+2017,Lassen,35-39 years,24
+2017,Lassen,40-44 years,
+2017,Lassen,45 years and over,
+2018,Lassen,20-24 years,75
+2018,Lassen,25-29 years,97
+2018,Lassen,30-34 years,71
+2018,Lassen,35-39 years,42
+2018,Lassen,40-44 years,
+2018,Lassen,45 years and over,0
+2019,Lassen,20-24 years,74
+2019,Lassen,25-29 years,94
+2019,Lassen,30-34 years,59
+2019,Lassen,35-39 years,31
+2019,Lassen,40-44 years,
+2019,Lassen,45 years and over,0
+2020,Lassen,20-24 years,70
+2020,Lassen,25-29 years,102
+2020,Lassen,30-34 years,65
+2020,Lassen,35-39 years,15
+2020,Lassen,40-44 years,
+2020,Lassen,45 years and over,0
+2021,Lassen,20-24 years,60
+2021,Lassen,25-29 years,102
+2021,Lassen,30-34 years,76
+2021,Lassen,35-39 years,33
+2021,Lassen,40-44 years,
+2021,Lassen,45 years and over,0
+2022,Lassen,20-24 years,68
+2022,Lassen,25-29 years,97
+2022,Lassen,30-34 years,62
+2022,Lassen,35-39 years,25
+2022,Lassen,40-44 years,
+2022,Lassen,45 years and over,0
+2023,Lassen,20-24 years,59
+2023,Lassen,25-29 years,79
+2023,Lassen,30-34 years,62
+2023,Lassen,35-39 years,29
+2023,Lassen,40-44 years,
+2023,Lassen,45 years and over,0
+2024,Lassen,20-24 years,53
+2024,Lassen,25-29 years,72
+2024,Lassen,30-34 years,78
+2024,Lassen,35-39 years,24
+2024,Lassen,40-44 years,
+2024,Lassen,45 years and over,
+2014,Los Angeles,20-24 years,23265
+2014,Los Angeles,25-29 years,32404
+2014,Los Angeles,30-34 years,37736
+2014,Los Angeles,35-39 years,23273
+2014,Los Angeles,40-44 years,5965
+2014,Los Angeles,45 years and over,481
+2015,Los Angeles,20-24 years,21587
+2015,Los Angeles,25-29 years,31125
+2015,Los Angeles,30-34 years,36438
+2015,Los Angeles,35-39 years,22721
+2015,Los Angeles,40-44 years,5931
+2015,Los Angeles,45 years and over,556
+2016,Los Angeles,20-24 years,20177
+2016,Los Angeles,25-29 years,31385
+2016,Los Angeles,30-34 years,36493
+2016,Los Angeles,35-39 years,23089
+2016,Los Angeles,40-44 years,5889
+2016,Los Angeles,45 years and over,545
+2017,Los Angeles,20-24 years,18388
+2017,Los Angeles,25-29 years,29381
+2017,Los Angeles,30-34 years,34929
+2017,Los Angeles,35-39 years,23001
+2017,Los Angeles,40-44 years,5915
+2017,Los Angeles,45 years and over,546
+2018,Los Angeles,20-24 years,15902
+2018,Los Angeles,25-29 years,27337
+2018,Los Angeles,30-34 years,33335
+2018,Los Angeles,35-39 years,23059
+2018,Los Angeles,40-44 years,5815
+2018,Los Angeles,45 years and over,587
+2019,Los Angeles,20-24 years,15067
+2019,Los Angeles,25-29 years,26033
+2019,Los Angeles,30-34 years,32889
+2019,Los Angeles,35-39 years,22794
+2019,Los Angeles,40-44 years,5960
+2019,Los Angeles,45 years and over,617
+2020,Los Angeles,20-24 years,13092
+2020,Los Angeles,25-29 years,23569
+2020,Los Angeles,30-34 years,30400
+2020,Los Angeles,35-39 years,21478
+2020,Los Angeles,40-44 years,5713
+2020,Los Angeles,45 years and over,536
+2021,Los Angeles,20-24 years,12311
+2021,Los Angeles,25-29 years,22700
+2021,Los Angeles,30-34 years,30534
+2021,Los Angeles,35-39 years,21476
+2021,Los Angeles,40-44 years,5583
+2021,Los Angeles,45 years and over,548
+2022,Los Angeles,20-24 years,11583
+2022,Los Angeles,25-29 years,21792
+2022,Los Angeles,30-34 years,30697
+2022,Los Angeles,35-39 years,22214
+2022,Los Angeles,40-44 years,6044
+2022,Los Angeles,45 years and over,645
+2023,Los Angeles,20-24 years,10883
+2023,Los Angeles,25-29 years,20410
+2023,Los Angeles,30-34 years,28964
+2023,Los Angeles,35-39 years,21279
+2023,Los Angeles,40-44 years,5957
+2023,Los Angeles,45 years and over,637
+2024,Los Angeles,20-24 years,10322
+2024,Los Angeles,25-29 years,19685
+2024,Los Angeles,30-34 years,29175
+2024,Los Angeles,35-39 years,22173
+2024,Los Angeles,40-44 years,6078
+2024,Los Angeles,45 years and over,587
+2014,Madera,20-24 years,580
+2014,Madera,25-29 years,675
+2014,Madera,30-34 years,502
+2014,Madera,35-39 years,241
+2014,Madera,40-44 years,69
+2014,Madera,45 years and over,
+2015,Madera,20-24 years,524
+2015,Madera,25-29 years,665
+2015,Madera,30-34 years,512
+2015,Madera,35-39 years,250
+2015,Madera,40-44 years,68
+2015,Madera,45 years and over,
+2016,Madera,20-24 years,603
+2016,Madera,25-29 years,712
+2016,Madera,30-34 years,532
+2016,Madera,35-39 years,272
+2016,Madera,40-44 years,53
+2016,Madera,45 years and over,
+2017,Madera,20-24 years,493
+2017,Madera,25-29 years,627
+2017,Madera,30-34 years,491
+2017,Madera,35-39 years,273
+2017,Madera,40-44 years,61
+2017,Madera,45 years and over,
+2018,Madera,20-24 years,496
+2018,Madera,25-29 years,625
+2018,Madera,30-34 years,498
+2018,Madera,35-39 years,277
+2018,Madera,40-44 years,63
+2018,Madera,45 years and over,
+2019,Madera,20-24 years,474
+2019,Madera,25-29 years,625
+2019,Madera,30-34 years,506
+2019,Madera,35-39 years,267
+2019,Madera,40-44 years,
+2019,Madera,45 years and over,
+2020,Madera,20-24 years,444
+2020,Madera,25-29 years,648
+2020,Madera,30-34 years,549
+2020,Madera,35-39 years,268
+2020,Madera,40-44 years,70
+2020,Madera,45 years and over,
+2021,Madera,20-24 years,411
+2021,Madera,25-29 years,597
+2021,Madera,30-34 years,525
+2021,Madera,35-39 years,305
+2021,Madera,40-44 years,89
+2021,Madera,45 years and over,
+2022,Madera,20-24 years,406
+2022,Madera,25-29 years,673
+2022,Madera,30-34 years,593
+2022,Madera,35-39 years,319
+2022,Madera,40-44 years,60
+2022,Madera,45 years and over,
+2023,Madera,20-24 years,386
+2023,Madera,25-29 years,622
+2023,Madera,30-34 years,634
+2023,Madera,35-39 years,330
+2023,Madera,40-44 years,
+2023,Madera,45 years and over,
+2024,Madera,20-24 years,415
+2024,Madera,25-29 years,606
+2024,Madera,30-34 years,587
+2024,Madera,35-39 years,335
+2024,Madera,40-44 years,
+2024,Madera,45 years and over,
+2014,Marin,20-24 years,174
+2014,Marin,25-29 years,380
+2014,Marin,30-34 years,799
+2014,Marin,35-39 years,734
+2014,Marin,40-44 years,230
+2014,Marin,45 years and over,
+2015,Marin,20-24 years,160
+2015,Marin,25-29 years,388
+2015,Marin,30-34 years,825
+2015,Marin,35-39 years,646
+2015,Marin,40-44 years,200
+2015,Marin,45 years and over,29
+2016,Marin,20-24 years,129
+2016,Marin,25-29 years,347
+2016,Marin,30-34 years,757
+2016,Marin,35-39 years,702
+2016,Marin,40-44 years,234
+2016,Marin,45 years and over,28
+2017,Marin,20-24 years,134
+2017,Marin,25-29 years,327
+2017,Marin,30-34 years,802
+2017,Marin,35-39 years,711
+2017,Marin,40-44 years,208
+2017,Marin,45 years and over,
+2018,Marin,20-24 years,131
+2018,Marin,25-29 years,287
+2018,Marin,30-34 years,711
+2018,Marin,35-39 years,749
+2018,Marin,40-44 years,195
+2018,Marin,45 years and over,24
+2019,Marin,20-24 years,122
+2019,Marin,25-29 years,283
+2019,Marin,30-34 years,713
+2019,Marin,35-39 years,720
+2019,Marin,40-44 years,193
+2019,Marin,45 years and over,19
+2020,Marin,20-24 years,131
+2020,Marin,25-29 years,253
+2020,Marin,30-34 years,735
+2020,Marin,35-39 years,729
+2020,Marin,40-44 years,188
+2020,Marin,45 years and over,
+2021,Marin,20-24 years,136
+2021,Marin,25-29 years,253
+2021,Marin,30-34 years,837
+2021,Marin,35-39 years,859
+2021,Marin,40-44 years,205
+2021,Marin,45 years and over,19
+2022,Marin,20-24 years,140
+2022,Marin,25-29 years,279
+2022,Marin,30-34 years,754
+2022,Marin,35-39 years,783
+2022,Marin,40-44 years,219
+2022,Marin,45 years and over,29
+2023,Marin,20-24 years,132
+2023,Marin,25-29 years,259
+2023,Marin,30-34 years,738
+2023,Marin,35-39 years,762
+2023,Marin,40-44 years,223
+2023,Marin,45 years and over,
+2024,Marin,20-24 years,132
+2024,Marin,25-29 years,267
+2024,Marin,30-34 years,703
+2024,Marin,35-39 years,701
+2024,Marin,40-44 years,193
+2024,Marin,45 years and over,23
+2014,Mariposa,20-24 years,34
+2014,Mariposa,25-29 years,40
+2014,Mariposa,30-34 years,32
+2014,Mariposa,35-39 years,18
+2014,Mariposa,40-44 years,
+2014,Mariposa,45 years and over,0
+2015,Mariposa,20-24 years,55
+2015,Mariposa,25-29 years,43
+2015,Mariposa,30-34 years,45
+2015,Mariposa,35-39 years,14
+2015,Mariposa,40-44 years,
+2015,Mariposa,45 years and over,0
+2016,Mariposa,20-24 years,34
+2016,Mariposa,25-29 years,41
+2016,Mariposa,30-34 years,34
+2016,Mariposa,35-39 years,23
+2016,Mariposa,40-44 years,
+2016,Mariposa,45 years and over,0
+2017,Mariposa,20-24 years,35
+2017,Mariposa,25-29 years,42
+2017,Mariposa,30-34 years,37
+2017,Mariposa,35-39 years,15
+2017,Mariposa,40-44 years,
+2017,Mariposa,45 years and over,
+2018,Mariposa,20-24 years,34
+2018,Mariposa,25-29 years,52
+2018,Mariposa,30-34 years,37
+2018,Mariposa,35-39 years,21
+2018,Mariposa,40-44 years,
+2018,Mariposa,45 years and over,0
+2019,Mariposa,20-24 years,26
+2019,Mariposa,25-29 years,43
+2019,Mariposa,30-34 years,32
+2019,Mariposa,35-39 years,20
+2019,Mariposa,40-44 years,
+2019,Mariposa,45 years and over,0
+2020,Mariposa,20-24 years,25
+2020,Mariposa,25-29 years,35
+2020,Mariposa,30-34 years,28
+2020,Mariposa,35-39 years,19
+2020,Mariposa,40-44 years,
+2020,Mariposa,45 years and over,0
+2021,Mariposa,20-24 years,30
+2021,Mariposa,25-29 years,52
+2021,Mariposa,30-34 years,44
+2021,Mariposa,35-39 years,31
+2021,Mariposa,40-44 years,
+2021,Mariposa,45 years and over,0
+2022,Mariposa,20-24 years,31
+2022,Mariposa,25-29 years,30
+2022,Mariposa,30-34 years,43
+2022,Mariposa,35-39 years,27
+2022,Mariposa,40-44 years,
+2022,Mariposa,45 years and over,0
+2023,Mariposa,20-24 years,14
+2023,Mariposa,25-29 years,40
+2023,Mariposa,30-34 years,52
+2023,Mariposa,35-39 years,33
+2023,Mariposa,40-44 years,
+2023,Mariposa,45 years and over,
+2024,Mariposa,20-24 years,26
+2024,Mariposa,25-29 years,36
+2024,Mariposa,30-34 years,37
+2024,Mariposa,35-39 years,24
+2024,Mariposa,40-44 years,
+2024,Mariposa,45 years and over,0
+2014,Mendocino,20-24 years,246
+2014,Mendocino,25-29 years,299
+2014,Mendocino,30-34 years,243
+2014,Mendocino,35-39 years,122
+2014,Mendocino,40-44 years,
+2014,Mendocino,45 years and over,
+2015,Mendocino,20-24 years,236
+2015,Mendocino,25-29 years,317
+2015,Mendocino,30-34 years,266
+2015,Mendocino,35-39 years,134
+2015,Mendocino,40-44 years,
+2015,Mendocino,45 years and over,
+2016,Mendocino,20-24 years,236
+2016,Mendocino,25-29 years,284
+2016,Mendocino,30-34 years,257
+2016,Mendocino,35-39 years,151
+2016,Mendocino,40-44 years,
+2016,Mendocino,45 years and over,
+2017,Mendocino,20-24 years,245
+2017,Mendocino,25-29 years,287
+2017,Mendocino,30-34 years,233
+2017,Mendocino,35-39 years,144
+2017,Mendocino,40-44 years,
+2017,Mendocino,45 years and over,
+2018,Mendocino,20-24 years,187
+2018,Mendocino,25-29 years,278
+2018,Mendocino,30-34 years,227
+2018,Mendocino,35-39 years,131
+2018,Mendocino,40-44 years,
+2018,Mendocino,45 years and over,
+2019,Mendocino,20-24 years,180
+2019,Mendocino,25-29 years,277
+2019,Mendocino,30-34 years,243
+2019,Mendocino,35-39 years,136
+2019,Mendocino,40-44 years,41
+2019,Mendocino,45 years and over,
+2020,Mendocino,20-24 years,177
+2020,Mendocino,25-29 years,245
+2020,Mendocino,30-34 years,240
+2020,Mendocino,35-39 years,140
+2020,Mendocino,40-44 years,
+2020,Mendocino,45 years and over,
+2021,Mendocino,20-24 years,167
+2021,Mendocino,25-29 years,254
+2021,Mendocino,30-34 years,271
+2021,Mendocino,35-39 years,137
+2021,Mendocino,40-44 years,
+2021,Mendocino,45 years and over,
+2022,Mendocino,20-24 years,139
+2022,Mendocino,25-29 years,249
+2022,Mendocino,30-34 years,269
+2022,Mendocino,35-39 years,142
+2022,Mendocino,40-44 years,
+2022,Mendocino,45 years and over,
+2023,Mendocino,20-24 years,117
+2023,Mendocino,25-29 years,218
+2023,Mendocino,30-34 years,214
+2023,Mendocino,35-39 years,134
+2023,Mendocino,40-44 years,37
+2023,Mendocino,45 years and over,
+2024,Mendocino,20-24 years,150
+2024,Mendocino,25-29 years,231
+2024,Mendocino,30-34 years,219
+2024,Mendocino,35-39 years,153
+2024,Mendocino,40-44 years,
+2024,Mendocino,45 years and over,
+2014,Merced,20-24 years,1136
+2014,Merced,25-29 years,1193
+2014,Merced,30-34 years,886
+2014,Merced,35-39 years,427
+2014,Merced,40-44 years,125
+2014,Merced,45 years and over,
+2015,Merced,20-24 years,997
+2015,Merced,25-29 years,1267
+2015,Merced,30-34 years,917
+2015,Merced,35-39 years,457
+2015,Merced,40-44 years,117
+2015,Merced,45 years and over,
+2016,Merced,20-24 years,1034
+2016,Merced,25-29 years,1253
+2016,Merced,30-34 years,970
+2016,Merced,35-39 years,447
+2016,Merced,40-44 years,92
+2016,Merced,45 years and over,
+2017,Merced,20-24 years,1023
+2017,Merced,25-29 years,1276
+2017,Merced,30-34 years,990
+2017,Merced,35-39 years,507
+2017,Merced,40-44 years,107
+2017,Merced,45 years and over,
+2018,Merced,20-24 years,911
+2018,Merced,25-29 years,1194
+2018,Merced,30-34 years,928
+2018,Merced,35-39 years,460
+2018,Merced,40-44 years,99
+2018,Merced,45 years and over,
+2019,Merced,20-24 years,821
+2019,Merced,25-29 years,1212
+2019,Merced,30-34 years,1011
+2019,Merced,35-39 years,465
+2019,Merced,40-44 years,108
+2019,Merced,45 years and over,
+2020,Merced,20-24 years,858
+2020,Merced,25-29 years,1166
+2020,Merced,30-34 years,980
+2020,Merced,35-39 years,442
+2020,Merced,40-44 years,107
+2020,Merced,45 years and over,
+2021,Merced,20-24 years,811
+2021,Merced,25-29 years,1235
+2021,Merced,30-34 years,997
+2021,Merced,35-39 years,493
+2021,Merced,40-44 years,127
+2021,Merced,45 years and over,
+2022,Merced,20-24 years,795
+2022,Merced,25-29 years,1176
+2022,Merced,30-34 years,1042
+2022,Merced,35-39 years,534
+2022,Merced,40-44 years,122
+2022,Merced,45 years and over,
+2023,Merced,20-24 years,778
+2023,Merced,25-29 years,1100
+2023,Merced,30-34 years,1004
+2023,Merced,35-39 years,514
+2023,Merced,40-44 years,117
+2023,Merced,45 years and over,
+2024,Merced,20-24 years,769
+2024,Merced,25-29 years,1110
+2024,Merced,30-34 years,1068
+2024,Merced,35-39 years,518
+2024,Merced,40-44 years,132
+2024,Merced,45 years and over,
+2014,Modoc,20-24 years,26
+2014,Modoc,25-29 years,27
+2014,Modoc,30-34 years,22
+2014,Modoc,35-39 years,
+2014,Modoc,40-44 years,
+2014,Modoc,45 years and over,0
+2015,Modoc,20-24 years,28
+2015,Modoc,25-29 years,23
+2015,Modoc,30-34 years,
+2015,Modoc,35-39 years,
+2015,Modoc,40-44 years,
+2015,Modoc,45 years and over,0
+2016,Modoc,20-24 years,24
+2016,Modoc,25-29 years,28
+2016,Modoc,30-34 years,20
+2016,Modoc,35-39 years,12
+2016,Modoc,40-44 years,
+2016,Modoc,45 years and over,0
+2017,Modoc,20-24 years,24
+2017,Modoc,25-29 years,29
+2017,Modoc,30-34 years,27
+2017,Modoc,35-39 years,
+2017,Modoc,40-44 years,0
+2017,Modoc,45 years and over,0
+2018,Modoc,20-24 years,27
+2018,Modoc,25-29 years,33
+2018,Modoc,30-34 years,25
+2018,Modoc,35-39 years,13
+2018,Modoc,40-44 years,
+2018,Modoc,45 years and over,0
+2019,Modoc,20-24 years,27
+2019,Modoc,25-29 years,26
+2019,Modoc,30-34 years,
+2019,Modoc,35-39 years,
+2019,Modoc,40-44 years,
+2019,Modoc,45 years and over,
+2020,Modoc,20-24 years,16
+2020,Modoc,25-29 years,24
+2020,Modoc,30-34 years,22
+2020,Modoc,35-39 years,
+2020,Modoc,40-44 years,
+2020,Modoc,45 years and over,0
+2021,Modoc,20-24 years,21
+2021,Modoc,25-29 years,22
+2021,Modoc,30-34 years,
+2021,Modoc,35-39 years,12
+2021,Modoc,40-44 years,
+2021,Modoc,45 years and over,0
+2022,Modoc,20-24 years,15
+2022,Modoc,25-29 years,20
+2022,Modoc,30-34 years,29
+2022,Modoc,35-39 years,
+2022,Modoc,40-44 years,0
+2022,Modoc,45 years and over,0
+2023,Modoc,20-24 years,
+2023,Modoc,25-29 years,31
+2023,Modoc,30-34 years,20
+2023,Modoc,35-39 years,12
+2023,Modoc,40-44 years,
+2023,Modoc,45 years and over,0
+2024,Modoc,20-24 years,14
+2024,Modoc,25-29 years,
+2024,Modoc,30-34 years,
+2024,Modoc,35-39 years,
+2024,Modoc,40-44 years,
+2024,Modoc,45 years and over,
+2014,Mono,20-24 years,22
+2014,Mono,25-29 years,49
+2014,Mono,30-34 years,44
+2014,Mono,35-39 years,20
+2014,Mono,40-44 years,
+2014,Mono,45 years and over,0
+2015,Mono,20-24 years,30
+2015,Mono,25-29 years,37
+2015,Mono,30-34 years,40
+2015,Mono,35-39 years,30
+2015,Mono,40-44 years,
+2015,Mono,45 years and over,
+2016,Mono,20-24 years,
+2016,Mono,25-29 years,38
+2016,Mono,30-34 years,40
+2016,Mono,35-39 years,24
+2016,Mono,40-44 years,
+2016,Mono,45 years and over,
+2017,Mono,20-24 years,25
+2017,Mono,25-29 years,35
+2017,Mono,30-34 years,43
+2017,Mono,35-39 years,35
+2017,Mono,40-44 years,
+2017,Mono,45 years and over,0
+2018,Mono,20-24 years,21
+2018,Mono,25-29 years,
+2018,Mono,30-34 years,43
+2018,Mono,35-39 years,39
+2018,Mono,40-44 years,
+2018,Mono,45 years and over,0
+2019,Mono,20-24 years,38
+2019,Mono,25-29 years,34
+2019,Mono,30-34 years,33
+2019,Mono,35-39 years,16
+2019,Mono,40-44 years,
+2019,Mono,45 years and over,
+2020,Mono,20-24 years,18
+2020,Mono,25-29 years,32
+2020,Mono,30-34 years,37
+2020,Mono,35-39 years,29
+2020,Mono,40-44 years,
+2020,Mono,45 years and over,0
+2021,Mono,20-24 years,19
+2021,Mono,25-29 years,34
+2021,Mono,30-34 years,36
+2021,Mono,35-39 years,29
+2021,Mono,40-44 years,
+2021,Mono,45 years and over,0
+2022,Mono,20-24 years,18
+2022,Mono,25-29 years,35
+2022,Mono,30-34 years,41
+2022,Mono,35-39 years,25
+2022,Mono,40-44 years,
+2022,Mono,45 years and over,0
+2023,Mono,20-24 years,15
+2023,Mono,25-29 years,31
+2023,Mono,30-34 years,35
+2023,Mono,35-39 years,28
+2023,Mono,40-44 years,
+2023,Mono,45 years and over,
+2024,Mono,20-24 years,15
+2024,Mono,25-29 years,28
+2024,Mono,30-34 years,30
+2024,Mono,35-39 years,27
+2024,Mono,40-44 years,
+2024,Mono,45 years and over,
+2014,Monterey,20-24 years,1428
+2014,Monterey,25-29 years,1871
+2014,Monterey,30-34 years,1662
+2014,Monterey,35-39 years,831
+2014,Monterey,40-44 years,187
+2014,Monterey,45 years and over,
+2015,Monterey,20-24 years,1452
+2015,Monterey,25-29 years,1725
+2015,Monterey,30-34 years,1712
+2015,Monterey,35-39 years,858
+2015,Monterey,40-44 years,196
+2015,Monterey,45 years and over,
+2016,Monterey,20-24 years,1304
+2016,Monterey,25-29 years,1699
+2016,Monterey,30-34 years,1684
+2016,Monterey,35-39 years,920
+2016,Monterey,40-44 years,206
+2016,Monterey,45 years and over,
+2017,Monterey,20-24 years,1197
+2017,Monterey,25-29 years,1626
+2017,Monterey,30-34 years,1546
+2017,Monterey,35-39 years,857
+2017,Monterey,40-44 years,192
+2017,Monterey,45 years and over,
+2018,Monterey,20-24 years,1193
+2018,Monterey,25-29 years,1569
+2018,Monterey,30-34 years,1583
+2018,Monterey,35-39 years,925
+2018,Monterey,40-44 years,225
+2018,Monterey,45 years and over,
+2019,Monterey,20-24 years,1100
+2019,Monterey,25-29 years,1647
+2019,Monterey,30-34 years,1584
+2019,Monterey,35-39 years,936
+2019,Monterey,40-44 years,232
+2019,Monterey,45 years and over,19
+2020,Monterey,20-24 years,1050
+2020,Monterey,25-29 years,1591
+2020,Monterey,30-34 years,1554
+2020,Monterey,35-39 years,857
+2020,Monterey,40-44 years,231
+2020,Monterey,45 years and over,11
+2021,Monterey,20-24 years,1021
+2021,Monterey,25-29 years,1501
+2021,Monterey,30-34 years,1518
+2021,Monterey,35-39 years,855
+2021,Monterey,40-44 years,233
+2021,Monterey,45 years and over,
+2022,Monterey,20-24 years,1062
+2022,Monterey,25-29 years,1524
+2022,Monterey,30-34 years,1613
+2022,Monterey,35-39 years,944
+2022,Monterey,40-44 years,242
+2022,Monterey,45 years and over,
+2023,Monterey,20-24 years,1008
+2023,Monterey,25-29 years,1438
+2023,Monterey,30-34 years,1482
+2023,Monterey,35-39 years,912
+2023,Monterey,40-44 years,222
+2023,Monterey,45 years and over,
+2024,Monterey,20-24 years,941
+2024,Monterey,25-29 years,1337
+2024,Monterey,30-34 years,1474
+2024,Monterey,35-39 years,904
+2024,Monterey,40-44 years,242
+2024,Monterey,45 years and over,
+2014,Napa,20-24 years,252
+2014,Napa,25-29 years,406
+2014,Napa,30-34 years,434
+2014,Napa,35-39 years,248
+2014,Napa,40-44 years,73
+2014,Napa,45 years and over,
+2015,Napa,20-24 years,236
+2015,Napa,25-29 years,380
+2015,Napa,30-34 years,433
+2015,Napa,35-39 years,267
+2015,Napa,40-44 years,68
+2015,Napa,45 years and over,
+2016,Napa,20-24 years,195
+2016,Napa,25-29 years,355
+2016,Napa,30-34 years,433
+2016,Napa,35-39 years,287
+2016,Napa,40-44 years,79
+2016,Napa,45 years and over,
+2017,Napa,20-24 years,170
+2017,Napa,25-29 years,333
+2017,Napa,30-34 years,403
+2017,Napa,35-39 years,271
+2017,Napa,40-44 years,64
+2017,Napa,45 years and over,
+2018,Napa,20-24 years,143
+2018,Napa,25-29 years,302
+2018,Napa,30-34 years,375
+2018,Napa,35-39 years,264
+2018,Napa,40-44 years,74
+2018,Napa,45 years and over,
+2019,Napa,20-24 years,169
+2019,Napa,25-29 years,318
+2019,Napa,30-34 years,404
+2019,Napa,35-39 years,297
+2019,Napa,40-44 years,62
+2019,Napa,45 years and over,
+2020,Napa,20-24 years,156
+2020,Napa,25-29 years,282
+2020,Napa,30-34 years,405
+2020,Napa,35-39 years,276
+2020,Napa,40-44 years,52
+2020,Napa,45 years and over,
+2021,Napa,20-24 years,141
+2021,Napa,25-29 years,292
+2021,Napa,30-34 years,383
+2021,Napa,35-39 years,270
+2021,Napa,40-44 years,79
+2021,Napa,45 years and over,14
+2022,Napa,20-24 years,121
+2022,Napa,25-29 years,282
+2022,Napa,30-34 years,378
+2022,Napa,35-39 years,273
+2022,Napa,40-44 years,67
+2022,Napa,45 years and over,
+2023,Napa,20-24 years,122
+2023,Napa,25-29 years,284
+2023,Napa,30-34 years,409
+2023,Napa,35-39 years,321
+2023,Napa,40-44 years,67
+2023,Napa,45 years and over,
+2024,Napa,20-24 years,146
+2024,Napa,25-29 years,261
+2024,Napa,30-34 years,341
+2024,Napa,35-39 years,251
+2024,Napa,40-44 years,65
+2024,Napa,45 years and over,11
+2014,Nevada,20-24 years,147
+2014,Nevada,25-29 years,211
+2014,Nevada,30-34 years,252
+2014,Nevada,35-39 years,150
+2014,Nevada,40-44 years,28
+2014,Nevada,45 years and over,0
+2015,Nevada,20-24 years,124
+2015,Nevada,25-29 years,233
+2015,Nevada,30-34 years,278
+2015,Nevada,35-39 years,169
+2015,Nevada,40-44 years,36
+2015,Nevada,45 years and over,
+2016,Nevada,20-24 years,101
+2016,Nevada,25-29 years,222
+2016,Nevada,30-34 years,254
+2016,Nevada,35-39 years,151
+2016,Nevada,40-44 years,28
+2016,Nevada,45 years and over,
+2017,Nevada,20-24 years,121
+2017,Nevada,25-29 years,224
+2017,Nevada,30-34 years,235
+2017,Nevada,35-39 years,150
+2017,Nevada,40-44 years,40
+2017,Nevada,45 years and over,
+2018,Nevada,20-24 years,102
+2018,Nevada,25-29 years,212
+2018,Nevada,30-34 years,245
+2018,Nevada,35-39 years,161
+2018,Nevada,40-44 years,39
+2018,Nevada,45 years and over,
+2019,Nevada,20-24 years,108
+2019,Nevada,25-29 years,211
+2019,Nevada,30-34 years,259
+2019,Nevada,35-39 years,168
+2019,Nevada,40-44 years,43
+2019,Nevada,45 years and over,
+2020,Nevada,20-24 years,91
+2020,Nevada,25-29 years,195
+2020,Nevada,30-34 years,261
+2020,Nevada,35-39 years,173
+2020,Nevada,40-44 years,40
+2020,Nevada,45 years and over,
+2021,Nevada,20-24 years,95
+2021,Nevada,25-29 years,175
+2021,Nevada,30-34 years,269
+2021,Nevada,35-39 years,199
+2021,Nevada,40-44 years,52
+2021,Nevada,45 years and over,
+2022,Nevada,20-24 years,87
+2022,Nevada,25-29 years,161
+2022,Nevada,30-34 years,269
+2022,Nevada,35-39 years,185
+2022,Nevada,40-44 years,56
+2022,Nevada,45 years and over,
+2023,Nevada,20-24 years,76
+2023,Nevada,25-29 years,172
+2023,Nevada,30-34 years,277
+2023,Nevada,35-39 years,185
+2023,Nevada,40-44 years,36
+2023,Nevada,45 years and over,
+2024,Nevada,20-24 years,87
+2024,Nevada,25-29 years,145
+2024,Nevada,30-34 years,233
+2024,Nevada,35-39 years,200
+2024,Nevada,40-44 years,52
+2024,Nevada,45 years and over,
+2014,Orange,20-24 years,5335
+2014,Orange,25-29 years,9447
+2014,Orange,30-34 years,12919
+2014,Orange,35-39 years,7411
+2014,Orange,40-44 years,1776
+2014,Orange,45 years and over,149
+2015,Orange,20-24 years,5069
+2015,Orange,25-29 years,9146
+2015,Orange,30-34 years,12733
+2015,Orange,35-39 years,7318
+2015,Orange,40-44 years,1804
+2015,Orange,45 years and over,171
+2016,Orange,20-24 years,4683
+2016,Orange,25-29 years,9345
+2016,Orange,30-34 years,12883
+2016,Orange,35-39 years,7919
+2016,Orange,40-44 years,1897
+2016,Orange,45 years and over,
+2017,Orange,20-24 years,4411
+2017,Orange,25-29 years,9099
+2017,Orange,30-34 years,12729
+2017,Orange,35-39 years,8096
+2017,Orange,40-44 years,1792
+2017,Orange,45 years and over,177
+2018,Orange,20-24 years,3898
+2018,Orange,25-29 years,8595
+2018,Orange,30-34 years,12265
+2018,Orange,35-39 years,7846
+2018,Orange,40-44 years,1849
+2018,Orange,45 years and over,
+2019,Orange,20-24 years,3568
+2019,Orange,25-29 years,8231
+2019,Orange,30-34 years,12242
+2019,Orange,35-39 years,8017
+2019,Orange,40-44 years,1790
+2019,Orange,45 years and over,220
+2020,Orange,20-24 years,3163
+2020,Orange,25-29 years,7217
+2020,Orange,30-34 years,10840
+2020,Orange,35-39 years,7143
+2020,Orange,40-44 years,1670
+2020,Orange,45 years and over,
+2021,Orange,20-24 years,2949
+2021,Orange,25-29 years,6911
+2021,Orange,30-34 years,11033
+2021,Orange,35-39 years,7346
+2021,Orange,40-44 years,1690
+2021,Orange,45 years and over,
+2022,Orange,20-24 years,2929
+2022,Orange,25-29 years,6797
+2022,Orange,30-34 years,11052
+2022,Orange,35-39 years,7380
+2022,Orange,40-44 years,1854
+2022,Orange,45 years and over,
+2023,Orange,20-24 years,2710
+2023,Orange,25-29 years,6271
+2023,Orange,30-34 years,10826
+2023,Orange,35-39 years,7441
+2023,Orange,40-44 years,1858
+2023,Orange,45 years and over,
+2024,Orange,20-24 years,2708
+2024,Orange,25-29 years,6454
+2024,Orange,30-34 years,11231
+2024,Orange,35-39 years,7632
+2024,Orange,40-44 years,2010
+2024,Orange,45 years and over,
+2014,Placer,20-24 years,418
+2014,Placer,25-29 years,1012
+2014,Placer,30-34 years,1278
+2014,Placer,35-39 years,702
+2014,Placer,40-44 years,126
+2014,Placer,45 years and over,
+2015,Placer,20-24 years,446
+2015,Placer,25-29 years,1001
+2015,Placer,30-34 years,1363
+2015,Placer,35-39 years,683
+2015,Placer,40-44 years,137
+2015,Placer,45 years and over,
+2016,Placer,20-24 years,466
+2016,Placer,25-29 years,991
+2016,Placer,30-34 years,1358
+2016,Placer,35-39 years,662
+2016,Placer,40-44 years,154
+2016,Placer,45 years and over,12
+2017,Placer,20-24 years,429
+2017,Placer,25-29 years,943
+2017,Placer,30-34 years,1331
+2017,Placer,35-39 years,739
+2017,Placer,40-44 years,157
+2017,Placer,45 years and over,21
+2018,Placer,20-24 years,372
+2018,Placer,25-29 years,931
+2018,Placer,30-34 years,1317
+2018,Placer,35-39 years,795
+2018,Placer,40-44 years,160
+2018,Placer,45 years and over,
+2019,Placer,20-24 years,393
+2019,Placer,25-29 years,963
+2019,Placer,30-34 years,1302
+2019,Placer,35-39 years,757
+2019,Placer,40-44 years,170
+2019,Placer,45 years and over,21
+2020,Placer,20-24 years,327
+2020,Placer,25-29 years,909
+2020,Placer,30-34 years,1252
+2020,Placer,35-39 years,745
+2020,Placer,40-44 years,177
+2020,Placer,45 years and over,21
+2021,Placer,20-24 years,365
+2021,Placer,25-29 years,1008
+2021,Placer,30-34 years,1412
+2021,Placer,35-39 years,824
+2021,Placer,40-44 years,167
+2021,Placer,45 years and over,16
+2022,Placer,20-24 years,353
+2022,Placer,25-29 years,937
+2022,Placer,30-34 years,1347
+2022,Placer,35-39 years,877
+2022,Placer,40-44 years,183
+2022,Placer,45 years and over,
+2023,Placer,20-24 years,354
+2023,Placer,25-29 years,942
+2023,Placer,30-34 years,1400
+2023,Placer,35-39 years,819
+2023,Placer,40-44 years,197
+2023,Placer,45 years and over,11
+2024,Placer,20-24 years,349
+2024,Placer,25-29 years,977
+2024,Placer,30-34 years,1487
+2024,Placer,35-39 years,882
+2024,Placer,40-44 years,206
+2024,Placer,45 years and over,17
+2014,Plumas,20-24 years,49
+2014,Plumas,25-29 years,38
+2014,Plumas,30-34 years,33
+2014,Plumas,35-39 years,16
+2014,Plumas,40-44 years,
+2014,Plumas,45 years and over,0
+2015,Plumas,20-24 years,34
+2015,Plumas,25-29 years,47
+2015,Plumas,30-34 years,44
+2015,Plumas,35-39 years,25
+2015,Plumas,40-44 years,
+2015,Plumas,45 years and over,0
+2016,Plumas,20-24 years,43
+2016,Plumas,25-29 years,55
+2016,Plumas,30-34 years,38
+2016,Plumas,35-39 years,18
+2016,Plumas,40-44 years,
+2016,Plumas,45 years and over,0
+2017,Plumas,20-24 years,38
+2017,Plumas,25-29 years,51
+2017,Plumas,30-34 years,49
+2017,Plumas,35-39 years,23
+2017,Plumas,40-44 years,
+2017,Plumas,45 years and over,0
+2018,Plumas,20-24 years,38
+2018,Plumas,25-29 years,42
+2018,Plumas,30-34 years,49
+2018,Plumas,35-39 years,
+2018,Plumas,40-44 years,0
+2018,Plumas,45 years and over,0
+2019,Plumas,20-24 years,33
+2019,Plumas,25-29 years,43
+2019,Plumas,30-34 years,45
+2019,Plumas,35-39 years,27
+2019,Plumas,40-44 years,
+2019,Plumas,45 years and over,
+2020,Plumas,20-24 years,14
+2020,Plumas,25-29 years,61
+2020,Plumas,30-34 years,53
+2020,Plumas,35-39 years,20
+2020,Plumas,40-44 years,
+2020,Plumas,45 years and over,
+2021,Plumas,20-24 years,20
+2021,Plumas,25-29 years,50
+2021,Plumas,30-34 years,55
+2021,Plumas,35-39 years,30
+2021,Plumas,40-44 years,
+2021,Plumas,45 years and over,0
+2022,Plumas,20-24 years,26
+2022,Plumas,25-29 years,45
+2022,Plumas,30-34 years,35
+2022,Plumas,35-39 years,26
+2022,Plumas,40-44 years,
+2022,Plumas,45 years and over,0
+2023,Plumas,20-24 years,19
+2023,Plumas,25-29 years,37
+2023,Plumas,30-34 years,47
+2023,Plumas,35-39 years,20
+2023,Plumas,40-44 years,
+2023,Plumas,45 years and over,
+2024,Plumas,20-24 years,24
+2024,Plumas,25-29 years,34
+2024,Plumas,30-34 years,41
+2024,Plumas,35-39 years,22
+2024,Plumas,40-44 years,
+2024,Plumas,45 years and over,0
+2014,Riverside,20-24 years,6903
+2014,Riverside,25-29 years,8888
+2014,Riverside,30-34 years,7809
+2014,Riverside,35-39 years,3760
+2014,Riverside,40-44 years,886
+2014,Riverside,45 years and over,118
+2015,Riverside,20-24 years,6706
+2015,Riverside,25-29 years,9004
+2015,Riverside,30-34 years,8065
+2015,Riverside,35-39 years,3870
+2015,Riverside,40-44 years,868
+2015,Riverside,45 years and over,88
+2016,Riverside,20-24 years,6593
+2016,Riverside,25-29 years,9095
+2016,Riverside,30-34 years,8284
+2016,Riverside,35-39 years,4063
+2016,Riverside,40-44 years,934
+2016,Riverside,45 years and over,102
+2017,Riverside,20-24 years,6053
+2017,Riverside,25-29 years,9198
+2017,Riverside,30-34 years,7882
+2017,Riverside,35-39 years,4167
+2017,Riverside,40-44 years,1014
+2017,Riverside,45 years and over,
+2018,Riverside,20-24 years,5661
+2018,Riverside,25-29 years,8726
+2018,Riverside,30-34 years,7756
+2018,Riverside,35-39 years,4146
+2018,Riverside,40-44 years,925
+2018,Riverside,45 years and over,
+2019,Riverside,20-24 years,5204
+2019,Riverside,25-29 years,8567
+2019,Riverside,30-34 years,7943
+2019,Riverside,35-39 years,4253
+2019,Riverside,40-44 years,992
+2019,Riverside,45 years and over,
+2020,Riverside,20-24 years,4854
+2020,Riverside,25-29 years,8185
+2020,Riverside,30-34 years,7884
+2020,Riverside,35-39 years,4072
+2020,Riverside,40-44 years,970
+2020,Riverside,45 years and over,
+2021,Riverside,20-24 years,4793
+2021,Riverside,25-29 years,8135
+2021,Riverside,30-34 years,8223
+2021,Riverside,35-39 years,4438
+2021,Riverside,40-44 years,968
+2021,Riverside,45 years and over,
+2022,Riverside,20-24 years,4600
+2022,Riverside,25-29 years,8035
+2022,Riverside,30-34 years,8559
+2022,Riverside,35-39 years,4586
+2022,Riverside,40-44 years,1053
+2022,Riverside,45 years and over,139
+2023,Riverside,20-24 years,4290
+2023,Riverside,25-29 years,7385
+2023,Riverside,30-34 years,8154
+2023,Riverside,35-39 years,4458
+2023,Riverside,40-44 years,1145
+2023,Riverside,45 years and over,
+2024,Riverside,20-24 years,4018
+2024,Riverside,25-29 years,7586
+2024,Riverside,30-34 years,8493
+2024,Riverside,35-39 years,4815
+2024,Riverside,40-44 years,1146
+2024,Riverside,45 years and over,
+2014,Sacramento,20-24 years,4027
+2014,Sacramento,25-29 years,5780
+2014,Sacramento,30-34 years,5695
+2014,Sacramento,35-39 years,2701
+2014,Sacramento,40-44 years,627
+2014,Sacramento,45 years and over,68
+2015,Sacramento,20-24 years,3794
+2015,Sacramento,25-29 years,5605
+2015,Sacramento,30-34 years,5718
+2015,Sacramento,35-39 years,2732
+2015,Sacramento,40-44 years,605
+2015,Sacramento,45 years and over,
+2016,Sacramento,20-24 years,3585
+2016,Sacramento,25-29 years,5718
+2016,Sacramento,30-34 years,5876
+2016,Sacramento,35-39 years,2968
+2016,Sacramento,40-44 years,592
+2016,Sacramento,45 years and over,
+2017,Sacramento,20-24 years,3423
+2017,Sacramento,25-29 years,5579
+2017,Sacramento,30-34 years,5800
+2017,Sacramento,35-39 years,2926
+2017,Sacramento,40-44 years,717
+2017,Sacramento,45 years and over,
+2018,Sacramento,20-24 years,3079
+2018,Sacramento,25-29 years,5580
+2018,Sacramento,30-34 years,5898
+2018,Sacramento,35-39 years,3102
+2018,Sacramento,40-44 years,654
+2018,Sacramento,45 years and over,
+2019,Sacramento,20-24 years,3057
+2019,Sacramento,25-29 years,5454
+2019,Sacramento,30-34 years,5809
+2019,Sacramento,35-39 years,3282
+2019,Sacramento,40-44 years,724
+2019,Sacramento,45 years and over,
+2020,Sacramento,20-24 years,2635
+2020,Sacramento,25-29 years,5082
+2020,Sacramento,30-34 years,5707
+2020,Sacramento,35-39 years,3260
+2020,Sacramento,40-44 years,724
+2020,Sacramento,45 years and over,
+2021,Sacramento,20-24 years,2551
+2021,Sacramento,25-29 years,5059
+2021,Sacramento,30-34 years,6061
+2021,Sacramento,35-39 years,3384
+2021,Sacramento,40-44 years,780
+2021,Sacramento,45 years and over,
+2022,Sacramento,20-24 years,2507
+2022,Sacramento,25-29 years,4781
+2022,Sacramento,30-34 years,5988
+2022,Sacramento,35-39 years,3578
+2022,Sacramento,40-44 years,817
+2022,Sacramento,45 years and over,
+2023,Sacramento,20-24 years,2270
+2023,Sacramento,25-29 years,4592
+2023,Sacramento,30-34 years,5757
+2023,Sacramento,35-39 years,3414
+2023,Sacramento,40-44 years,800
+2023,Sacramento,45 years and over,
+2024,Sacramento,20-24 years,2302
+2024,Sacramento,25-29 years,4330
+2024,Sacramento,30-34 years,5862
+2024,Sacramento,35-39 years,3609
+2024,Sacramento,40-44 years,819
+2024,Sacramento,45 years and over,
+2014,San Benito,20-24 years,132
+2014,San Benito,25-29 years,218
+2014,San Benito,30-34 years,179
+2014,San Benito,35-39 years,102
+2014,San Benito,40-44 years,
+2014,San Benito,45 years and over,
+2015,San Benito,20-24 years,149
+2015,San Benito,25-29 years,202
+2015,San Benito,30-34 years,194
+2015,San Benito,35-39 years,104
+2015,San Benito,40-44 years,
+2015,San Benito,45 years and over,
+2016,San Benito,20-24 years,140
+2016,San Benito,25-29 years,233
+2016,San Benito,30-34 years,235
+2016,San Benito,35-39 years,104
+2016,San Benito,40-44 years,26
+2016,San Benito,45 years and over,
+2017,San Benito,20-24 years,140
+2017,San Benito,25-29 years,213
+2017,San Benito,30-34 years,216
+2017,San Benito,35-39 years,109
+2017,San Benito,40-44 years,
+2017,San Benito,45 years and over,
+2018,San Benito,20-24 years,126
+2018,San Benito,25-29 years,223
+2018,San Benito,30-34 years,255
+2018,San Benito,35-39 years,124
+2018,San Benito,40-44 years,
+2018,San Benito,45 years and over,
+2019,San Benito,20-24 years,117
+2019,San Benito,25-29 years,234
+2019,San Benito,30-34 years,250
+2019,San Benito,35-39 years,143
+2019,San Benito,40-44 years,
+2019,San Benito,45 years and over,
+2020,San Benito,20-24 years,94
+2020,San Benito,25-29 years,217
+2020,San Benito,30-34 years,236
+2020,San Benito,35-39 years,128
+2020,San Benito,40-44 years,28
+2020,San Benito,45 years and over,
+2021,San Benito,20-24 years,110
+2021,San Benito,25-29 years,252
+2021,San Benito,30-34 years,276
+2021,San Benito,35-39 years,143
+2021,San Benito,40-44 years,29
+2021,San Benito,45 years and over,
+2022,San Benito,20-24 years,119
+2022,San Benito,25-29 years,238
+2022,San Benito,30-34 years,292
+2022,San Benito,35-39 years,155
+2022,San Benito,40-44 years,43
+2022,San Benito,45 years and over,0
+2023,San Benito,20-24 years,105
+2023,San Benito,25-29 years,206
+2023,San Benito,30-34 years,262
+2023,San Benito,35-39 years,140
+2023,San Benito,40-44 years,23
+2023,San Benito,45 years and over,
+2024,San Benito,20-24 years,102
+2024,San Benito,25-29 years,194
+2024,San Benito,30-34 years,260
+2024,San Benito,35-39 years,169
+2024,San Benito,40-44 years,44
+2024,San Benito,45 years and over,
+2014,San Bernardino,20-24 years,7900
+2014,San Bernardino,25-29 years,9147
+2014,San Bernardino,30-34 years,7486
+2014,San Bernardino,35-39 years,3587
+2014,San Bernardino,40-44 years,821
+2014,San Bernardino,45 years and over,54
+2015,San Bernardino,20-24 years,7468
+2015,San Bernardino,25-29 years,8998
+2015,San Bernardino,30-34 years,7506
+2015,San Bernardino,35-39 years,3682
+2015,San Bernardino,40-44 years,834
+2015,San Bernardino,45 years and over,66
+2016,San Bernardino,20-24 years,7169
+2016,San Bernardino,25-29 years,9416
+2016,San Bernardino,30-34 years,7848
+2016,San Bernardino,35-39 years,3916
+2016,San Bernardino,40-44 years,853
+2016,San Bernardino,45 years and over,79
+2017,San Bernardino,20-24 years,6437
+2017,San Bernardino,25-29 years,9029
+2017,San Bernardino,30-34 years,7606
+2017,San Bernardino,35-39 years,3941
+2017,San Bernardino,40-44 years,929
+2017,San Bernardino,45 years and over,115
+2018,San Bernardino,20-24 years,6245
+2018,San Bernardino,25-29 years,8601
+2018,San Bernardino,30-34 years,7780
+2018,San Bernardino,35-39 years,3887
+2018,San Bernardino,40-44 years,922
+2018,San Bernardino,45 years and over,
+2019,San Bernardino,20-24 years,5844
+2019,San Bernardino,25-29 years,8614
+2019,San Bernardino,30-34 years,7807
+2019,San Bernardino,35-39 years,4091
+2019,San Bernardino,40-44 years,925
+2019,San Bernardino,45 years and over,
+2020,San Bernardino,20-24 years,5230
+2020,San Bernardino,25-29 years,7959
+2020,San Bernardino,30-34 years,7537
+2020,San Bernardino,35-39 years,3895
+2020,San Bernardino,40-44 years,901
+2020,San Bernardino,45 years and over,
+2021,San Bernardino,20-24 years,5072
+2021,San Bernardino,25-29 years,8118
+2021,San Bernardino,30-34 years,7718
+2021,San Bernardino,35-39 years,3898
+2021,San Bernardino,40-44 years,853
+2021,San Bernardino,45 years and over,
+2022,San Bernardino,20-24 years,4603
+2022,San Bernardino,25-29 years,7610
+2022,San Bernardino,30-34 years,7805
+2022,San Bernardino,35-39 years,4200
+2022,San Bernardino,40-44 years,975
+2022,San Bernardino,45 years and over,
+2023,San Bernardino,20-24 years,4185
+2023,San Bernardino,25-29 years,7079
+2023,San Bernardino,30-34 years,7555
+2023,San Bernardino,35-39 years,4104
+2023,San Bernardino,40-44 years,1001
+2023,San Bernardino,45 years and over,
+2024,San Bernardino,20-24 years,4185
+2024,San Bernardino,25-29 years,7137
+2024,San Bernardino,30-34 years,7766
+2024,San Bernardino,35-39 years,4259
+2024,San Bernardino,40-44 years,1031
+2024,San Bernardino,45 years and over,
+2014,San Diego,20-24 years,8485
+2014,San Diego,25-29 years,11722
+2014,San Diego,30-34 years,13377
+2014,San Diego,35-39 years,7200
+2014,San Diego,40-44 years,1607
+2014,San Diego,45 years and over,191
+2015,San Diego,20-24 years,7949
+2015,San Diego,25-29 years,11616
+2015,San Diego,30-34 years,13398
+2015,San Diego,35-39 years,7296
+2015,San Diego,40-44 years,1742
+2015,San Diego,45 years and over,209
+2016,San Diego,20-24 years,7292
+2016,San Diego,25-29 years,11265
+2016,San Diego,30-34 years,13298
+2016,San Diego,35-39 years,7530
+2016,San Diego,40-44 years,1619
+2016,San Diego,45 years and over,
+2017,San Diego,20-24 years,6689
+2017,San Diego,25-29 years,10993
+2017,San Diego,30-34 years,12701
+2017,San Diego,35-39 years,7671
+2017,San Diego,40-44 years,1647
+2017,San Diego,45 years and over,
+2018,San Diego,20-24 years,6012
+2018,San Diego,25-29 years,10325
+2018,San Diego,30-34 years,12738
+2018,San Diego,35-39 years,7941
+2018,San Diego,40-44 years,1692
+2018,San Diego,45 years and over,
+2019,San Diego,20-24 years,5710
+2019,San Diego,25-29 years,9958
+2019,San Diego,30-34 years,12219
+2019,San Diego,35-39 years,7706
+2019,San Diego,40-44 years,1788
+2019,San Diego,45 years and over,
+2020,San Diego,20-24 years,5431
+2020,San Diego,25-29 years,9226
+2020,San Diego,30-34 years,12149
+2020,San Diego,35-39 years,7539
+2020,San Diego,40-44 years,1747
+2020,San Diego,45 years and over,
+2021,San Diego,20-24 years,5175
+2021,San Diego,25-29 years,9141
+2021,San Diego,30-34 years,12592
+2021,San Diego,35-39 years,7920
+2021,San Diego,40-44 years,1714
+2021,San Diego,45 years and over,
+2022,San Diego,20-24 years,5164
+2022,San Diego,25-29 years,9119
+2022,San Diego,30-34 years,12503
+2022,San Diego,35-39 years,8029
+2022,San Diego,40-44 years,1960
+2022,San Diego,45 years and over,225
+2023,San Diego,20-24 years,4662
+2023,San Diego,25-29 years,8302
+2023,San Diego,30-34 years,12026
+2023,San Diego,35-39 years,7803
+2023,San Diego,40-44 years,1907
+2023,San Diego,45 years and over,
+2024,San Diego,20-24 years,4701
+2024,San Diego,25-29 years,8104
+2024,San Diego,30-34 years,12233
+2024,San Diego,35-39 years,7997
+2024,San Diego,40-44 years,1961
+2024,San Diego,45 years and over,
+2014,San Francisco,20-24 years,581
+2014,San Francisco,25-29 years,1530
+2014,San Francisco,30-34 years,3397
+2014,San Francisco,35-39 years,2631
+2014,San Francisco,40-44 years,746
+2014,San Francisco,45 years and over,
+2015,San Francisco,20-24 years,555
+2015,San Francisco,25-29 years,1403
+2015,San Francisco,30-34 years,3390
+2015,San Francisco,35-39 years,2699
+2015,San Francisco,40-44 years,721
+2015,San Francisco,45 years and over,79
+2016,San Francisco,20-24 years,501
+2016,San Francisco,25-29 years,1391
+2016,San Francisco,30-34 years,3472
+2016,San Francisco,35-39 years,2748
+2016,San Francisco,40-44 years,752
+2016,San Francisco,45 years and over,
+2017,San Francisco,20-24 years,494
+2017,San Francisco,25-29 years,1334
+2017,San Francisco,30-34 years,3501
+2017,San Francisco,35-39 years,2747
+2017,San Francisco,40-44 years,701
+2017,San Francisco,45 years and over,
+2018,San Francisco,20-24 years,409
+2018,San Francisco,25-29 years,1127
+2018,San Francisco,30-34 years,3402
+2018,San Francisco,35-39 years,2899
+2018,San Francisco,40-44 years,652
+2018,San Francisco,45 years and over,
+2019,San Francisco,20-24 years,389
+2019,San Francisco,25-29 years,1102
+2019,San Francisco,30-34 years,3210
+2019,San Francisco,35-39 years,2825
+2019,San Francisco,40-44 years,678
+2019,San Francisco,45 years and over,
+2020,San Francisco,20-24 years,384
+2020,San Francisco,25-29 years,911
+2020,San Francisco,30-34 years,3084
+2020,San Francisco,35-39 years,2787
+2020,San Francisco,40-44 years,676
+2020,San Francisco,45 years and over,
+2021,San Francisco,20-24 years,334
+2021,San Francisco,25-29 years,791
+2021,San Francisco,30-34 years,2815
+2021,San Francisco,35-39 years,2738
+2021,San Francisco,40-44 years,645
+2021,San Francisco,45 years and over,84
+2022,San Francisco,20-24 years,369
+2022,San Francisco,25-29 years,821
+2022,San Francisco,30-34 years,2435
+2022,San Francisco,35-39 years,2566
+2022,San Francisco,40-44 years,729
+2022,San Francisco,45 years and over,
+2023,San Francisco,20-24 years,362
+2023,San Francisco,25-29 years,769
+2023,San Francisco,30-34 years,2418
+2023,San Francisco,35-39 years,2404
+2023,San Francisco,40-44 years,670
+2023,San Francisco,45 years and over,70
+2024,San Francisco,20-24 years,388
+2024,San Francisco,25-29 years,765
+2024,San Francisco,30-34 years,2424
+2024,San Francisco,35-39 years,2526
+2024,San Francisco,40-44 years,644
+2024,San Francisco,45 years and over,79
+2014,San Joaquin,20-24 years,2371
+2014,San Joaquin,25-29 years,3032
+2014,San Joaquin,30-34 years,2498
+2014,San Joaquin,35-39 years,1227
+2014,San Joaquin,40-44 years,267
+2014,San Joaquin,45 years and over,
+2015,San Joaquin,20-24 years,2223
+2015,San Joaquin,25-29 years,3045
+2015,San Joaquin,30-34 years,2556
+2015,San Joaquin,35-39 years,1243
+2015,San Joaquin,40-44 years,283
+2015,San Joaquin,45 years and over,
+2016,San Joaquin,20-24 years,2217
+2016,San Joaquin,25-29 years,3160
+2016,San Joaquin,30-34 years,2660
+2016,San Joaquin,35-39 years,1306
+2016,San Joaquin,40-44 years,330
+2016,San Joaquin,45 years and over,
+2017,San Joaquin,20-24 years,2085
+2017,San Joaquin,25-29 years,2949
+2017,San Joaquin,30-34 years,2699
+2017,San Joaquin,35-39 years,1373
+2017,San Joaquin,40-44 years,290
+2017,San Joaquin,45 years and over,
+2018,San Joaquin,20-24 years,1994
+2018,San Joaquin,25-29 years,2958
+2018,San Joaquin,30-34 years,2665
+2018,San Joaquin,35-39 years,1397
+2018,San Joaquin,40-44 years,334
+2018,San Joaquin,45 years and over,
+2019,San Joaquin,20-24 years,1958
+2019,San Joaquin,25-29 years,3019
+2019,San Joaquin,30-34 years,2797
+2019,San Joaquin,35-39 years,1407
+2019,San Joaquin,40-44 years,360
+2019,San Joaquin,45 years and over,
+2020,San Joaquin,20-24 years,1793
+2020,San Joaquin,25-29 years,2913
+2020,San Joaquin,30-34 years,2764
+2020,San Joaquin,35-39 years,1470
+2020,San Joaquin,40-44 years,329
+2020,San Joaquin,45 years and over,
+2021,San Joaquin,20-24 years,1653
+2021,San Joaquin,25-29 years,2878
+2021,San Joaquin,30-34 years,2947
+2021,San Joaquin,35-39 years,1497
+2021,San Joaquin,40-44 years,365
+2021,San Joaquin,45 years and over,
+2022,San Joaquin,20-24 years,1685
+2022,San Joaquin,25-29 years,2798
+2022,San Joaquin,30-34 years,3120
+2022,San Joaquin,35-39 years,1713
+2022,San Joaquin,40-44 years,389
+2022,San Joaquin,45 years and over,
+2023,San Joaquin,20-24 years,1516
+2023,San Joaquin,25-29 years,2690
+2023,San Joaquin,30-34 years,2963
+2023,San Joaquin,35-39 years,1622
+2023,San Joaquin,40-44 years,398
+2023,San Joaquin,45 years and over,
+2024,San Joaquin,20-24 years,1611
+2024,San Joaquin,25-29 years,2624
+2024,San Joaquin,30-34 years,2971
+2024,San Joaquin,35-39 years,1696
+2024,San Joaquin,40-44 years,391
+2024,San Joaquin,45 years and over,
+2014,San Luis Obispo,20-24 years,409
+2014,San Luis Obispo,25-29 years,770
+2014,San Luis Obispo,30-34 years,805
+2014,San Luis Obispo,35-39 years,386
+2014,San Luis Obispo,40-44 years,79
+2014,San Luis Obispo,45 years and over,11
+2015,San Luis Obispo,20-24 years,413
+2015,San Luis Obispo,25-29 years,789
+2015,San Luis Obispo,30-34 years,844
+2015,San Luis Obispo,35-39 years,413
+2015,San Luis Obispo,40-44 years,76
+2015,San Luis Obispo,45 years and over,
+2016,San Luis Obispo,20-24 years,380
+2016,San Luis Obispo,25-29 years,750
+2016,San Luis Obispo,30-34 years,842
+2016,San Luis Obispo,35-39 years,416
+2016,San Luis Obispo,40-44 years,
+2016,San Luis Obispo,45 years and over,
+2017,San Luis Obispo,20-24 years,338
+2017,San Luis Obispo,25-29 years,680
+2017,San Luis Obispo,30-34 years,879
+2017,San Luis Obispo,35-39 years,439
+2017,San Luis Obispo,40-44 years,111
+2017,San Luis Obispo,45 years and over,
+2018,San Luis Obispo,20-24 years,333
+2018,San Luis Obispo,25-29 years,666
+2018,San Luis Obispo,30-34 years,843
+2018,San Luis Obispo,35-39 years,429
+2018,San Luis Obispo,40-44 years,85
+2018,San Luis Obispo,45 years and over,
+2019,San Luis Obispo,20-24 years,343
+2019,San Luis Obispo,25-29 years,627
+2019,San Luis Obispo,30-34 years,870
+2019,San Luis Obispo,35-39 years,465
+2019,San Luis Obispo,40-44 years,87
+2019,San Luis Obispo,45 years and over,
+2020,San Luis Obispo,20-24 years,292
+2020,San Luis Obispo,25-29 years,596
+2020,San Luis Obispo,30-34 years,838
+2020,San Luis Obispo,35-39 years,448
+2020,San Luis Obispo,40-44 years,106
+2020,San Luis Obispo,45 years and over,
+2021,San Luis Obispo,20-24 years,300
+2021,San Luis Obispo,25-29 years,608
+2021,San Luis Obispo,30-34 years,828
+2021,San Luis Obispo,35-39 years,528
+2021,San Luis Obispo,40-44 years,105
+2021,San Luis Obispo,45 years and over,14
+2022,San Luis Obispo,20-24 years,316
+2022,San Luis Obispo,25-29 years,585
+2022,San Luis Obispo,30-34 years,885
+2022,San Luis Obispo,35-39 years,451
+2022,San Luis Obispo,40-44 years,110
+2022,San Luis Obispo,45 years and over,
+2023,San Luis Obispo,20-24 years,301
+2023,San Luis Obispo,25-29 years,553
+2023,San Luis Obispo,30-34 years,810
+2023,San Luis Obispo,35-39 years,562
+2023,San Luis Obispo,40-44 years,120
+2023,San Luis Obispo,45 years and over,
+2024,San Luis Obispo,20-24 years,321
+2024,San Luis Obispo,25-29 years,562
+2024,San Luis Obispo,30-34 years,788
+2024,San Luis Obispo,35-39 years,507
+2024,San Luis Obispo,40-44 years,113
+2024,San Luis Obispo,45 years and over,
+2014,San Mateo,20-24 years,847
+2014,San Mateo,25-29 years,1741
+2014,San Mateo,30-34 years,3445
+2014,San Mateo,35-39 years,2220
+2014,San Mateo,40-44 years,575
+2014,San Mateo,45 years and over,
+2015,San Mateo,20-24 years,810
+2015,San Mateo,25-29 years,1710
+2015,San Mateo,30-34 years,3400
+2015,San Mateo,35-39 years,2319
+2015,San Mateo,40-44 years,538
+2015,San Mateo,45 years and over,
+2016,San Mateo,20-24 years,711
+2016,San Mateo,25-29 years,1661
+2016,San Mateo,30-34 years,3386
+2016,San Mateo,35-39 years,2393
+2016,San Mateo,40-44 years,562
+2016,San Mateo,45 years and over,
+2017,San Mateo,20-24 years,629
+2017,San Mateo,25-29 years,1551
+2017,San Mateo,30-34 years,3176
+2017,San Mateo,35-39 years,2439
+2017,San Mateo,40-44 years,592
+2017,San Mateo,45 years and over,
+2018,San Mateo,20-24 years,594
+2018,San Mateo,25-29 years,1415
+2018,San Mateo,30-34 years,3195
+2018,San Mateo,35-39 years,2388
+2018,San Mateo,40-44 years,530
+2018,San Mateo,45 years and over,
+2019,San Mateo,20-24 years,565
+2019,San Mateo,25-29 years,1381
+2019,San Mateo,30-34 years,3103
+2019,San Mateo,35-39 years,2438
+2019,San Mateo,40-44 years,567
+2019,San Mateo,45 years and over,
+2020,San Mateo,20-24 years,501
+2020,San Mateo,25-29 years,1254
+2020,San Mateo,30-34 years,2921
+2020,San Mateo,35-39 years,2391
+2020,San Mateo,40-44 years,510
+2020,San Mateo,45 years and over,
+2021,San Mateo,20-24 years,496
+2021,San Mateo,25-29 years,1113
+2021,San Mateo,30-34 years,2791
+2021,San Mateo,35-39 years,2363
+2021,San Mateo,40-44 years,549
+2021,San Mateo,45 years and over,
+2022,San Mateo,20-24 years,494
+2022,San Mateo,25-29 years,1155
+2022,San Mateo,30-34 years,2767
+2022,San Mateo,35-39 years,2325
+2022,San Mateo,40-44 years,626
+2022,San Mateo,45 years and over,
+2023,San Mateo,20-24 years,512
+2023,San Mateo,25-29 years,1084
+2023,San Mateo,30-34 years,2551
+2023,San Mateo,35-39 years,2262
+2023,San Mateo,40-44 years,585
+2023,San Mateo,45 years and over,
+2024,San Mateo,20-24 years,490
+2024,San Mateo,25-29 years,1076
+2024,San Mateo,30-34 years,2673
+2024,San Mateo,35-39 years,2346
+2024,San Mateo,40-44 years,543
+2024,San Mateo,45 years and over,
+2014,Santa Barbara,20-24 years,1273
+2014,Santa Barbara,25-29 years,1578
+2014,Santa Barbara,30-34 years,1591
+2014,Santa Barbara,35-39 years,782
+2014,Santa Barbara,40-44 years,205
+2014,Santa Barbara,45 years and over,
+2015,Santa Barbara,20-24 years,1141
+2015,Santa Barbara,25-29 years,1545
+2015,Santa Barbara,30-34 years,1539
+2015,Santa Barbara,35-39 years,847
+2015,Santa Barbara,40-44 years,191
+2015,Santa Barbara,45 years and over,
+2016,Santa Barbara,20-24 years,1097
+2016,Santa Barbara,25-29 years,1474
+2016,Santa Barbara,30-34 years,1521
+2016,Santa Barbara,35-39 years,885
+2016,Santa Barbara,40-44 years,182
+2016,Santa Barbara,45 years and over,
+2017,Santa Barbara,20-24 years,1053
+2017,Santa Barbara,25-29 years,1489
+2017,Santa Barbara,30-34 years,1582
+2017,Santa Barbara,35-39 years,829
+2017,Santa Barbara,40-44 years,187
+2017,Santa Barbara,45 years and over,
+2018,Santa Barbara,20-24 years,965
+2018,Santa Barbara,25-29 years,1457
+2018,Santa Barbara,30-34 years,1457
+2018,Santa Barbara,35-39 years,883
+2018,Santa Barbara,40-44 years,183
+2018,Santa Barbara,45 years and over,
+2019,Santa Barbara,20-24 years,952
+2019,Santa Barbara,25-29 years,1494
+2019,Santa Barbara,30-34 years,1535
+2019,Santa Barbara,35-39 years,970
+2019,Santa Barbara,40-44 years,217
+2019,Santa Barbara,45 years and over,
+2020,Santa Barbara,20-24 years,941
+2020,Santa Barbara,25-29 years,1359
+2020,Santa Barbara,30-34 years,1614
+2020,Santa Barbara,35-39 years,871
+2020,Santa Barbara,40-44 years,194
+2020,Santa Barbara,45 years and over,
+2021,Santa Barbara,20-24 years,900
+2021,Santa Barbara,25-29 years,1448
+2021,Santa Barbara,30-34 years,1565
+2021,Santa Barbara,35-39 years,1014
+2021,Santa Barbara,40-44 years,224
+2021,Santa Barbara,45 years and over,
+2022,Santa Barbara,20-24 years,992
+2022,Santa Barbara,25-29 years,1382
+2022,Santa Barbara,30-34 years,1633
+2022,Santa Barbara,35-39 years,1012
+2022,Santa Barbara,40-44 years,262
+2022,Santa Barbara,45 years and over,
+2023,Santa Barbara,20-24 years,1071
+2023,Santa Barbara,25-29 years,1315
+2023,Santa Barbara,30-34 years,1501
+2023,Santa Barbara,35-39 years,947
+2023,Santa Barbara,40-44 years,217
+2023,Santa Barbara,45 years and over,
+2024,Santa Barbara,20-24 years,943
+2024,Santa Barbara,25-29 years,1326
+2024,Santa Barbara,30-34 years,1503
+2024,Santa Barbara,35-39 years,999
+2024,Santa Barbara,40-44 years,235
+2024,Santa Barbara,45 years and over,
+2014,Santa Clara,20-24 years,2459
+2014,Santa Clara,25-29 years,5361
+2014,Santa Clara,30-34 years,8840
+2014,Santa Clara,35-39 years,5054
+2014,Santa Clara,40-44 years,1224
+2014,Santa Clara,45 years and over,
+2015,Santa Clara,20-24 years,2178
+2015,Santa Clara,25-29 years,5412
+2015,Santa Clara,30-34 years,8873
+2015,Santa Clara,35-39 years,5055
+2015,Santa Clara,40-44 years,1145
+2015,Santa Clara,45 years and over,
+2016,Santa Clara,20-24 years,2053
+2016,Santa Clara,25-29 years,5153
+2016,Santa Clara,30-34 years,8899
+2016,Santa Clara,35-39 years,5113
+2016,Santa Clara,40-44 years,1162
+2016,Santa Clara,45 years and over,
+2017,Santa Clara,20-24 years,1876
+2017,Santa Clara,25-29 years,4837
+2017,Santa Clara,30-34 years,8635
+2017,Santa Clara,35-39 years,5136
+2017,Santa Clara,40-44 years,1132
+2017,Santa Clara,45 years and over,
+2018,Santa Clara,20-24 years,1647
+2018,Santa Clara,25-29 years,4569
+2018,Santa Clara,30-34 years,8285
+2018,Santa Clara,35-39 years,5214
+2018,Santa Clara,40-44 years,1084
+2018,Santa Clara,45 years and over,
+2019,Santa Clara,20-24 years,1615
+2019,Santa Clara,25-29 years,4466
+2019,Santa Clara,30-34 years,8084
+2019,Santa Clara,35-39 years,5323
+2019,Santa Clara,40-44 years,1141
+2019,Santa Clara,45 years and over,
+2020,Santa Clara,20-24 years,1509
+2020,Santa Clara,25-29 years,3808
+2020,Santa Clara,30-34 years,7539
+2020,Santa Clara,35-39 years,5125
+2020,Santa Clara,40-44 years,1094
+2020,Santa Clara,45 years and over,
+2021,Santa Clara,20-24 years,1460
+2021,Santa Clara,25-29 years,3671
+2021,Santa Clara,30-34 years,7664
+2021,Santa Clara,35-39 years,4846
+2021,Santa Clara,40-44 years,1064
+2021,Santa Clara,45 years and over,
+2022,Santa Clara,20-24 years,1475
+2022,Santa Clara,25-29 years,3548
+2022,Santa Clara,30-34 years,7391
+2022,Santa Clara,35-39 years,5049
+2022,Santa Clara,40-44 years,1134
+2022,Santa Clara,45 years and over,
+2023,Santa Clara,20-24 years,1467
+2023,Santa Clara,25-29 years,3326
+2023,Santa Clara,30-34 years,6981
+2023,Santa Clara,35-39 years,4905
+2023,Santa Clara,40-44 years,1187
+2023,Santa Clara,45 years and over,
+2024,Santa Clara,20-24 years,1462
+2024,Santa Clara,25-29 years,3360
+2024,Santa Clara,30-34 years,7236
+2024,Santa Clara,35-39 years,5040
+2024,Santa Clara,40-44 years,1180
+2024,Santa Clara,45 years and over,
+2014,Santa Cruz,20-24 years,504
+2014,Santa Cruz,25-29 years,718
+2014,Santa Cruz,30-34 years,922
+2014,Santa Cruz,35-39 years,579
+2014,Santa Cruz,40-44 years,146
+2014,Santa Cruz,45 years and over,
+2015,Santa Cruz,20-24 years,477
+2015,Santa Cruz,25-29 years,690
+2015,Santa Cruz,30-34 years,821
+2015,Santa Cruz,35-39 years,540
+2015,Santa Cruz,40-44 years,160
+2015,Santa Cruz,45 years and over,15
+2016,Santa Cruz,20-24 years,417
+2016,Santa Cruz,25-29 years,674
+2016,Santa Cruz,30-34 years,847
+2016,Santa Cruz,35-39 years,565
+2016,Santa Cruz,40-44 years,157
+2016,Santa Cruz,45 years and over,11
+2017,Santa Cruz,20-24 years,387
+2017,Santa Cruz,25-29 years,627
+2017,Santa Cruz,30-34 years,832
+2017,Santa Cruz,35-39 years,573
+2017,Santa Cruz,40-44 years,143
+2017,Santa Cruz,45 years and over,
+2018,Santa Cruz,20-24 years,326
+2018,Santa Cruz,25-29 years,567
+2018,Santa Cruz,30-34 years,764
+2018,Santa Cruz,35-39 years,539
+2018,Santa Cruz,40-44 years,135
+2018,Santa Cruz,45 years and over,
+2019,Santa Cruz,20-24 years,321
+2019,Santa Cruz,25-29 years,541
+2019,Santa Cruz,30-34 years,737
+2019,Santa Cruz,35-39 years,553
+2019,Santa Cruz,40-44 years,144
+2019,Santa Cruz,45 years and over,
+2020,Santa Cruz,20-24 years,260
+2020,Santa Cruz,25-29 years,493
+2020,Santa Cruz,30-34 years,716
+2020,Santa Cruz,35-39 years,511
+2020,Santa Cruz,40-44 years,128
+2020,Santa Cruz,45 years and over,
+2021,Santa Cruz,20-24 years,237
+2021,Santa Cruz,25-29 years,441
+2021,Santa Cruz,30-34 years,757
+2021,Santa Cruz,35-39 years,582
+2021,Santa Cruz,40-44 years,156
+2021,Santa Cruz,45 years and over,
+2022,Santa Cruz,20-24 years,258
+2022,Santa Cruz,25-29 years,506
+2022,Santa Cruz,30-34 years,760
+2022,Santa Cruz,35-39 years,577
+2022,Santa Cruz,40-44 years,139
+2022,Santa Cruz,45 years and over,
+2023,Santa Cruz,20-24 years,227
+2023,Santa Cruz,25-29 years,442
+2023,Santa Cruz,30-34 years,704
+2023,Santa Cruz,35-39 years,557
+2023,Santa Cruz,40-44 years,128
+2023,Santa Cruz,45 years and over,11
+2024,Santa Cruz,20-24 years,208
+2024,Santa Cruz,25-29 years,412
+2024,Santa Cruz,30-34 years,694
+2024,Santa Cruz,35-39 years,548
+2024,Santa Cruz,40-44 years,140
+2024,Santa Cruz,45 years and over,
+2014,Shasta,20-24 years,532
+2014,Shasta,25-29 years,673
+2014,Shasta,30-34 years,511
+2014,Shasta,35-39 years,195
+2014,Shasta,40-44 years,37
+2014,Shasta,45 years and over,
+2015,Shasta,20-24 years,525
+2015,Shasta,25-29 years,679
+2015,Shasta,30-34 years,479
+2015,Shasta,35-39 years,226
+2015,Shasta,40-44 years,
+2015,Shasta,45 years and over,
+2016,Shasta,20-24 years,484
+2016,Shasta,25-29 years,669
+2016,Shasta,30-34 years,526
+2016,Shasta,35-39 years,219
+2016,Shasta,40-44 years,40
+2016,Shasta,45 years and over,
+2017,Shasta,20-24 years,442
+2017,Shasta,25-29 years,651
+2017,Shasta,30-34 years,525
+2017,Shasta,35-39 years,230
+2017,Shasta,40-44 years,
+2017,Shasta,45 years and over,
+2018,Shasta,20-24 years,406
+2018,Shasta,25-29 years,640
+2018,Shasta,30-34 years,517
+2018,Shasta,35-39 years,239
+2018,Shasta,40-44 years,45
+2018,Shasta,45 years and over,
+2019,Shasta,20-24 years,388
+2019,Shasta,25-29 years,601
+2019,Shasta,30-34 years,528
+2019,Shasta,35-39 years,239
+2019,Shasta,40-44 years,39
+2019,Shasta,45 years and over,
+2020,Shasta,20-24 years,380
+2020,Shasta,25-29 years,584
+2020,Shasta,30-34 years,494
+2020,Shasta,35-39 years,253
+2020,Shasta,40-44 years,
+2020,Shasta,45 years and over,
+2021,Shasta,20-24 years,369
+2021,Shasta,25-29 years,568
+2021,Shasta,30-34 years,508
+2021,Shasta,35-39 years,257
+2021,Shasta,40-44 years,
+2021,Shasta,45 years and over,
+2022,Shasta,20-24 years,277
+2022,Shasta,25-29 years,565
+2022,Shasta,30-34 years,512
+2022,Shasta,35-39 years,281
+2022,Shasta,40-44 years,62
+2022,Shasta,45 years and over,
+2023,Shasta,20-24 years,362
+2023,Shasta,25-29 years,529
+2023,Shasta,30-34 years,526
+2023,Shasta,35-39 years,271
+2023,Shasta,40-44 years,
+2023,Shasta,45 years and over,
+2024,Shasta,20-24 years,340
+2024,Shasta,25-29 years,479
+2024,Shasta,30-34 years,492
+2024,Shasta,35-39 years,270
+2024,Shasta,40-44 years,73
+2024,Shasta,45 years and over,
+2014,Sierra,20-24 years,
+2014,Sierra,25-29 years,
+2014,Sierra,30-34 years,
+2014,Sierra,35-39 years,
+2014,Sierra,40-44 years,
+2014,Sierra,45 years and over,0
+2015,Sierra,20-24 years,
+2015,Sierra,25-29 years,
+2015,Sierra,30-34 years,
+2015,Sierra,35-39 years,
+2015,Sierra,40-44 years,
+2015,Sierra,45 years and over,0
+2016,Sierra,20-24 years,
+2016,Sierra,25-29 years,
+2016,Sierra,30-34 years,
+2016,Sierra,35-39 years,
+2016,Sierra,40-44 years,
+2016,Sierra,45 years and over,0
+2017,Sierra,20-24 years,
+2017,Sierra,25-29 years,
+2017,Sierra,30-34 years,13
+2017,Sierra,35-39 years,
+2017,Sierra,40-44 years,
+2017,Sierra,45 years and over,0
+2018,Sierra,20-24 years,
+2018,Sierra,25-29 years,
+2018,Sierra,30-34 years,
+2018,Sierra,35-39 years,
+2018,Sierra,40-44 years,
+2018,Sierra,45 years and over,0
+2019,Sierra,20-24 years,
+2019,Sierra,25-29 years,
+2019,Sierra,30-34 years,
+2019,Sierra,35-39 years,
+2019,Sierra,40-44 years,0
+2019,Sierra,45 years and over,0
+2020,Sierra,20-24 years,
+2020,Sierra,25-29 years,
+2020,Sierra,30-34 years,
+2020,Sierra,35-39 years,
+2020,Sierra,40-44 years,
+2020,Sierra,45 years and over,0
+2021,Sierra,20-24 years,0
+2021,Sierra,25-29 years,
+2021,Sierra,30-34 years,
+2021,Sierra,35-39 years,
+2021,Sierra,40-44 years,
+2021,Sierra,45 years and over,0
+2022,Sierra,20-24 years,
+2022,Sierra,25-29 years,
+2022,Sierra,30-34 years,
+2022,Sierra,35-39 years,
+2022,Sierra,40-44 years,0
+2022,Sierra,45 years and over,0
+2023,Sierra,20-24 years,
+2023,Sierra,25-29 years,
+2023,Sierra,30-34 years,
+2023,Sierra,35-39 years,
+2023,Sierra,40-44 years,
+2023,Sierra,45 years and over,0
+2024,Sierra,20-24 years,0
+2024,Sierra,25-29 years,
+2024,Sierra,30-34 years,
+2024,Sierra,35-39 years,
+2024,Sierra,40-44 years,
+2024,Sierra,45 years and over,0
+2014,Siskiyou,20-24 years,110
+2014,Siskiyou,25-29 years,133
+2014,Siskiyou,30-34 years,111
+2014,Siskiyou,35-39 years,47
+2014,Siskiyou,40-44 years,
+2014,Siskiyou,45 years and over,
+2015,Siskiyou,20-24 years,114
+2015,Siskiyou,25-29 years,152
+2015,Siskiyou,30-34 years,104
+2015,Siskiyou,35-39 years,51
+2015,Siskiyou,40-44 years,14
+2015,Siskiyou,45 years and over,0
+2016,Siskiyou,20-24 years,107
+2016,Siskiyou,25-29 years,164
+2016,Siskiyou,30-34 years,109
+2016,Siskiyou,35-39 years,53
+2016,Siskiyou,40-44 years,
+2016,Siskiyou,45 years and over,0
+2017,Siskiyou,20-24 years,113
+2017,Siskiyou,25-29 years,124
+2017,Siskiyou,30-34 years,109
+2017,Siskiyou,35-39 years,58
+2017,Siskiyou,40-44 years,
+2017,Siskiyou,45 years and over,
+2018,Siskiyou,20-24 years,98
+2018,Siskiyou,25-29 years,129
+2018,Siskiyou,30-34 years,114
+2018,Siskiyou,35-39 years,58
+2018,Siskiyou,40-44 years,11
+2018,Siskiyou,45 years and over,0
+2019,Siskiyou,20-24 years,102
+2019,Siskiyou,25-29 years,137
+2019,Siskiyou,30-34 years,114
+2019,Siskiyou,35-39 years,52
+2019,Siskiyou,40-44 years,
+2019,Siskiyou,45 years and over,
+2020,Siskiyou,20-24 years,73
+2020,Siskiyou,25-29 years,146
+2020,Siskiyou,30-34 years,90
+2020,Siskiyou,35-39 years,54
+2020,Siskiyou,40-44 years,
+2020,Siskiyou,45 years and over,
+2021,Siskiyou,20-24 years,73
+2021,Siskiyou,25-29 years,111
+2021,Siskiyou,30-34 years,108
+2021,Siskiyou,35-39 years,78
+2021,Siskiyou,40-44 years,
+2021,Siskiyou,45 years and over,
+2022,Siskiyou,20-24 years,72
+2022,Siskiyou,25-29 years,115
+2022,Siskiyou,30-34 years,108
+2022,Siskiyou,35-39 years,60
+2022,Siskiyou,40-44 years,21
+2022,Siskiyou,45 years and over,
+2023,Siskiyou,20-24 years,65
+2023,Siskiyou,25-29 years,114
+2023,Siskiyou,30-34 years,101
+2023,Siskiyou,35-39 years,62
+2023,Siskiyou,40-44 years,12
+2023,Siskiyou,45 years and over,0
+2024,Siskiyou,20-24 years,81
+2024,Siskiyou,25-29 years,96
+2024,Siskiyou,30-34 years,95
+2024,Siskiyou,35-39 years,50
+2024,Siskiyou,40-44 years,
+2024,Siskiyou,45 years and over,0
+2014,Solano,20-24 years,1058
+2014,Solano,25-29 years,1631
+2014,Solano,30-34 years,1449
+2014,Solano,35-39 years,690
+2014,Solano,40-44 years,134
+2014,Solano,45 years and over,
+2015,Solano,20-24 years,996
+2015,Solano,25-29 years,1568
+2015,Solano,30-34 years,1463
+2015,Solano,35-39 years,729
+2015,Solano,40-44 years,155
+2015,Solano,45 years and over,
+2016,Solano,20-24 years,945
+2016,Solano,25-29 years,1541
+2016,Solano,30-34 years,1564
+2016,Solano,35-39 years,835
+2016,Solano,40-44 years,169
+2016,Solano,45 years and over,
+2017,Solano,20-24 years,889
+2017,Solano,25-29 years,1508
+2017,Solano,30-34 years,1533
+2017,Solano,35-39 years,806
+2017,Solano,40-44 years,185
+2017,Solano,45 years and over,
+2018,Solano,20-24 years,849
+2018,Solano,25-29 years,1468
+2018,Solano,30-34 years,1501
+2018,Solano,35-39 years,853
+2018,Solano,40-44 years,174
+2018,Solano,45 years and over,
+2019,Solano,20-24 years,800
+2019,Solano,25-29 years,1439
+2019,Solano,30-34 years,1595
+2019,Solano,35-39 years,857
+2019,Solano,40-44 years,179
+2019,Solano,45 years and over,
+2020,Solano,20-24 years,732
+2020,Solano,25-29 years,1413
+2020,Solano,30-34 years,1520
+2020,Solano,35-39 years,908
+2020,Solano,40-44 years,197
+2020,Solano,45 years and over,22
+2021,Solano,20-24 years,681
+2021,Solano,25-29 years,1390
+2021,Solano,30-34 years,1648
+2021,Solano,35-39 years,923
+2021,Solano,40-44 years,189
+2021,Solano,45 years and over,
+2022,Solano,20-24 years,643
+2022,Solano,25-29 years,1264
+2022,Solano,30-34 years,1578
+2022,Solano,35-39 years,987
+2022,Solano,40-44 years,236
+2022,Solano,45 years and over,
+2023,Solano,20-24 years,647
+2023,Solano,25-29 years,1202
+2023,Solano,30-34 years,1500
+2023,Solano,35-39 years,910
+2023,Solano,40-44 years,235
+2023,Solano,45 years and over,
+2024,Solano,20-24 years,634
+2024,Solano,25-29 years,1177
+2024,Solano,30-34 years,1486
+2024,Solano,35-39 years,944
+2024,Solano,40-44 years,246
+2024,Solano,45 years and over,
+2014,Sonoma,20-24 years,771
+2014,Sonoma,25-29 years,1370
+2014,Sonoma,30-34 years,1663
+2014,Sonoma,35-39 years,871
+2014,Sonoma,40-44 years,184
+2014,Sonoma,45 years and over,
+2015,Sonoma,20-24 years,719
+2015,Sonoma,25-29 years,1302
+2015,Sonoma,30-34 years,1632
+2015,Sonoma,35-39 years,971
+2015,Sonoma,40-44 years,218
+2015,Sonoma,45 years and over,13
+2016,Sonoma,20-24 years,695
+2016,Sonoma,25-29 years,1266
+2016,Sonoma,30-34 years,1676
+2016,Sonoma,35-39 years,942
+2016,Sonoma,40-44 years,198
+2016,Sonoma,45 years and over,19
+2017,Sonoma,20-24 years,613
+2017,Sonoma,25-29 years,1180
+2017,Sonoma,30-34 years,1575
+2017,Sonoma,35-39 years,940
+2017,Sonoma,40-44 years,194
+2017,Sonoma,45 years and over,
+2018,Sonoma,20-24 years,568
+2018,Sonoma,25-29 years,1123
+2018,Sonoma,30-34 years,1482
+2018,Sonoma,35-39 years,949
+2018,Sonoma,40-44 years,236
+2018,Sonoma,45 years and over,28
+2019,Sonoma,20-24 years,521
+2019,Sonoma,25-29 years,1091
+2019,Sonoma,30-34 years,1457
+2019,Sonoma,35-39 years,954
+2019,Sonoma,40-44 years,208
+2019,Sonoma,45 years and over,
+2020,Sonoma,20-24 years,524
+2020,Sonoma,25-29 years,1083
+2020,Sonoma,30-34 years,1364
+2020,Sonoma,35-39 years,981
+2020,Sonoma,40-44 years,219
+2020,Sonoma,45 years and over,
+2021,Sonoma,20-24 years,516
+2021,Sonoma,25-29 years,1040
+2021,Sonoma,30-34 years,1590
+2021,Sonoma,35-39 years,1014
+2021,Sonoma,40-44 years,275
+2021,Sonoma,45 years and over,18
+2022,Sonoma,20-24 years,544
+2022,Sonoma,25-29 years,1063
+2022,Sonoma,30-34 years,1422
+2022,Sonoma,35-39 years,1004
+2022,Sonoma,40-44 years,262
+2022,Sonoma,45 years and over,
+2023,Sonoma,20-24 years,491
+2023,Sonoma,25-29 years,1063
+2023,Sonoma,30-34 years,1415
+2023,Sonoma,35-39 years,989
+2023,Sonoma,40-44 years,270
+2023,Sonoma,45 years and over,
+2024,Sonoma,20-24 years,514
+2024,Sonoma,25-29 years,989
+2024,Sonoma,30-34 years,1433
+2024,Sonoma,35-39 years,1019
+2024,Sonoma,40-44 years,281
+2024,Sonoma,45 years and over,
+2014,Stanislaus,20-24 years,1815
+2014,Stanislaus,25-29 years,2308
+2014,Stanislaus,30-34 years,1821
+2014,Stanislaus,35-39 years,860
+2014,Stanislaus,40-44 years,137
+2014,Stanislaus,45 years and over,
+2015,Stanislaus,20-24 years,1750
+2015,Stanislaus,25-29 years,2373
+2015,Stanislaus,30-34 years,1958
+2015,Stanislaus,35-39 years,872
+2015,Stanislaus,40-44 years,201
+2015,Stanislaus,45 years and over,
+2016,Stanislaus,20-24 years,1758
+2016,Stanislaus,25-29 years,2437
+2016,Stanislaus,30-34 years,2034
+2016,Stanislaus,35-39 years,894
+2016,Stanislaus,40-44 years,191
+2016,Stanislaus,45 years and over,
+2017,Stanislaus,20-24 years,1633
+2017,Stanislaus,25-29 years,2424
+2017,Stanislaus,30-34 years,1854
+2017,Stanislaus,35-39 years,942
+2017,Stanislaus,40-44 years,189
+2017,Stanislaus,45 years and over,
+2018,Stanislaus,20-24 years,1564
+2018,Stanislaus,25-29 years,2250
+2018,Stanislaus,30-34 years,1978
+2018,Stanislaus,35-39 years,906
+2018,Stanislaus,40-44 years,232
+2018,Stanislaus,45 years and over,
+2019,Stanislaus,20-24 years,1431
+2019,Stanislaus,25-29 years,2260
+2019,Stanislaus,30-34 years,2056
+2019,Stanislaus,35-39 years,965
+2019,Stanislaus,40-44 years,212
+2019,Stanislaus,45 years and over,26
+2020,Stanislaus,20-24 years,1391
+2020,Stanislaus,25-29 years,2191
+2020,Stanislaus,30-34 years,1912
+2020,Stanislaus,35-39 years,991
+2020,Stanislaus,40-44 years,219
+2020,Stanislaus,45 years and over,
+2021,Stanislaus,20-24 years,1378
+2021,Stanislaus,25-29 years,2268
+2021,Stanislaus,30-34 years,2077
+2021,Stanislaus,35-39 years,984
+2021,Stanislaus,40-44 years,230
+2021,Stanislaus,45 years and over,
+2022,Stanislaus,20-24 years,1333
+2022,Stanislaus,25-29 years,2104
+2022,Stanislaus,30-34 years,2008
+2022,Stanislaus,35-39 years,1019
+2022,Stanislaus,40-44 years,223
+2022,Stanislaus,45 years and over,
+2023,Stanislaus,20-24 years,1209
+2023,Stanislaus,25-29 years,1970
+2023,Stanislaus,30-34 years,1991
+2023,Stanislaus,35-39 years,983
+2023,Stanislaus,40-44 years,222
+2023,Stanislaus,45 years and over,
+2024,Stanislaus,20-24 years,1237
+2024,Stanislaus,25-29 years,1978
+2024,Stanislaus,30-34 years,1917
+2024,Stanislaus,35-39 years,1021
+2024,Stanislaus,40-44 years,253
+2024,Stanislaus,45 years and over,
+2014,Sutter,20-24 years,314
+2014,Sutter,25-29 years,419
+2014,Sutter,30-34 years,349
+2014,Sutter,35-39 years,121
+2014,Sutter,40-44 years,
+2014,Sutter,45 years and over,
+2015,Sutter,20-24 years,321
+2015,Sutter,25-29 years,433
+2015,Sutter,30-34 years,297
+2015,Sutter,35-39 years,138
+2015,Sutter,40-44 years,40
+2015,Sutter,45 years and over,
+2016,Sutter,20-24 years,316
+2016,Sutter,25-29 years,451
+2016,Sutter,30-34 years,361
+2016,Sutter,35-39 years,141
+2016,Sutter,40-44 years,
+2016,Sutter,45 years and over,
+2017,Sutter,20-24 years,285
+2017,Sutter,25-29 years,457
+2017,Sutter,30-34 years,319
+2017,Sutter,35-39 years,136
+2017,Sutter,40-44 years,
+2017,Sutter,45 years and over,
+2018,Sutter,20-24 years,247
+2018,Sutter,25-29 years,440
+2018,Sutter,30-34 years,342
+2018,Sutter,35-39 years,157
+2018,Sutter,40-44 years,29
+2018,Sutter,45 years and over,
+2019,Sutter,20-24 years,250
+2019,Sutter,25-29 years,379
+2019,Sutter,30-34 years,364
+2019,Sutter,35-39 years,168
+2019,Sutter,40-44 years,
+2019,Sutter,45 years and over,
+2020,Sutter,20-24 years,228
+2020,Sutter,25-29 years,410
+2020,Sutter,30-34 years,380
+2020,Sutter,35-39 years,147
+2020,Sutter,40-44 years,
+2020,Sutter,45 years and over,
+2021,Sutter,20-24 years,223
+2021,Sutter,25-29 years,369
+2021,Sutter,30-34 years,389
+2021,Sutter,35-39 years,184
+2021,Sutter,40-44 years,
+2021,Sutter,45 years and over,
+2022,Sutter,20-24 years,228
+2022,Sutter,25-29 years,384
+2022,Sutter,30-34 years,349
+2022,Sutter,35-39 years,181
+2022,Sutter,40-44 years,34
+2022,Sutter,45 years and over,
+2023,Sutter,20-24 years,206
+2023,Sutter,25-29 years,392
+2023,Sutter,30-34 years,383
+2023,Sutter,35-39 years,168
+2023,Sutter,40-44 years,
+2023,Sutter,45 years and over,
+2024,Sutter,20-24 years,190
+2024,Sutter,25-29 years,374
+2024,Sutter,30-34 years,370
+2024,Sutter,35-39 years,177
+2024,Sutter,40-44 years,
+2024,Sutter,45 years and over,
+2014,Tehama,20-24 years,218
+2014,Tehama,25-29 years,260
+2014,Tehama,30-34 years,165
+2014,Tehama,35-39 years,53
+2014,Tehama,40-44 years,20
+2014,Tehama,45 years and over,0
+2015,Tehama,20-24 years,226
+2015,Tehama,25-29 years,261
+2015,Tehama,30-34 years,169
+2015,Tehama,35-39 years,76
+2015,Tehama,40-44 years,23
+2015,Tehama,45 years and over,
+2016,Tehama,20-24 years,229
+2016,Tehama,25-29 years,268
+2016,Tehama,30-34 years,166
+2016,Tehama,35-39 years,61
+2016,Tehama,40-44 years,
+2016,Tehama,45 years and over,
+2017,Tehama,20-24 years,197
+2017,Tehama,25-29 years,227
+2017,Tehama,30-34 years,179
+2017,Tehama,35-39 years,76
+2017,Tehama,40-44 years,11
+2017,Tehama,45 years and over,
+2018,Tehama,20-24 years,159
+2018,Tehama,25-29 years,289
+2018,Tehama,30-34 years,169
+2018,Tehama,35-39 years,66
+2018,Tehama,40-44 years,
+2018,Tehama,45 years and over,
+2019,Tehama,20-24 years,201
+2019,Tehama,25-29 years,264
+2019,Tehama,30-34 years,193
+2019,Tehama,35-39 years,75
+2019,Tehama,40-44 years,
+2019,Tehama,45 years and over,
+2020,Tehama,20-24 years,174
+2020,Tehama,25-29 years,251
+2020,Tehama,30-34 years,186
+2020,Tehama,35-39 years,69
+2020,Tehama,40-44 years,
+2020,Tehama,45 years and over,
+2021,Tehama,20-24 years,188
+2021,Tehama,25-29 years,238
+2021,Tehama,30-34 years,185
+2021,Tehama,35-39 years,71
+2021,Tehama,40-44 years,
+2021,Tehama,45 years and over,
+2022,Tehama,20-24 years,185
+2022,Tehama,25-29 years,223
+2022,Tehama,30-34 years,216
+2022,Tehama,35-39 years,92
+2022,Tehama,40-44 years,21
+2022,Tehama,45 years and over,
+2023,Tehama,20-24 years,172
+2023,Tehama,25-29 years,247
+2023,Tehama,30-34 years,181
+2023,Tehama,35-39 years,86
+2023,Tehama,40-44 years,
+2023,Tehama,45 years and over,
+2024,Tehama,20-24 years,148
+2024,Tehama,25-29 years,193
+2024,Tehama,30-34 years,194
+2024,Tehama,35-39 years,106
+2024,Tehama,40-44 years,
+2024,Tehama,45 years and over,
+2014,Trinity,20-24 years,30
+2014,Trinity,25-29 years,28
+2014,Trinity,30-34 years,33
+2014,Trinity,35-39 years,
+2014,Trinity,40-44 years,
+2014,Trinity,45 years and over,0
+2015,Trinity,20-24 years,27
+2015,Trinity,25-29 years,31
+2015,Trinity,30-34 years,26
+2015,Trinity,35-39 years,12
+2015,Trinity,40-44 years,
+2015,Trinity,45 years and over,0
+2016,Trinity,20-24 years,21
+2016,Trinity,25-29 years,28
+2016,Trinity,30-34 years,24
+2016,Trinity,35-39 years,26
+2016,Trinity,40-44 years,
+2016,Trinity,45 years and over,0
+2017,Trinity,20-24 years,19
+2017,Trinity,25-29 years,38
+2017,Trinity,30-34 years,43
+2017,Trinity,35-39 years,15
+2017,Trinity,40-44 years,
+2017,Trinity,45 years and over,0
+2018,Trinity,20-24 years,16
+2018,Trinity,25-29 years,46
+2018,Trinity,30-34 years,25
+2018,Trinity,35-39 years,
+2018,Trinity,40-44 years,
+2018,Trinity,45 years and over,0
+2019,Trinity,20-24 years,16
+2019,Trinity,25-29 years,28
+2019,Trinity,30-34 years,26
+2019,Trinity,35-39 years,16
+2019,Trinity,40-44 years,
+2019,Trinity,45 years and over,0
+2020,Trinity,20-24 years,20
+2020,Trinity,25-29 years,27
+2020,Trinity,30-34 years,29
+2020,Trinity,35-39 years,17
+2020,Trinity,40-44 years,
+2020,Trinity,45 years and over,0
+2021,Trinity,20-24 years,23
+2021,Trinity,25-29 years,32
+2021,Trinity,30-34 years,31
+2021,Trinity,35-39 years,15
+2021,Trinity,40-44 years,
+2021,Trinity,45 years and over,0
+2022,Trinity,20-24 years,15
+2022,Trinity,25-29 years,23
+2022,Trinity,30-34 years,34
+2022,Trinity,35-39 years,23
+2022,Trinity,40-44 years,
+2022,Trinity,45 years and over,0
+2023,Trinity,20-24 years,18
+2023,Trinity,25-29 years,29
+2023,Trinity,30-34 years,28
+2023,Trinity,35-39 years,12
+2023,Trinity,40-44 years,
+2023,Trinity,45 years and over,0
+2024,Trinity,20-24 years,19
+2024,Trinity,25-29 years,21
+2024,Trinity,30-34 years,33
+2024,Trinity,35-39 years,
+2024,Trinity,40-44 years,
+2024,Trinity,45 years and over,0
+2014,Tulare,20-24 years,2068
+2014,Tulare,25-29 years,2230
+2014,Tulare,30-34 years,1667
+2014,Tulare,35-39 years,727
+2014,Tulare,40-44 years,178
+2014,Tulare,45 years and over,
+2015,Tulare,20-24 years,1986
+2015,Tulare,25-29 years,2188
+2015,Tulare,30-34 years,1658
+2015,Tulare,35-39 years,768
+2015,Tulare,40-44 years,165
+2015,Tulare,45 years and over,
+2016,Tulare,20-24 years,1838
+2016,Tulare,25-29 years,2077
+2016,Tulare,30-34 years,1663
+2016,Tulare,35-39 years,785
+2016,Tulare,40-44 years,160
+2016,Tulare,45 years and over,
+2017,Tulare,20-24 years,1732
+2017,Tulare,25-29 years,2214
+2017,Tulare,30-34 years,1583
+2017,Tulare,35-39 years,815
+2017,Tulare,40-44 years,185
+2017,Tulare,45 years and over,
+2018,Tulare,20-24 years,1731
+2018,Tulare,25-29 years,2110
+2018,Tulare,30-34 years,1590
+2018,Tulare,35-39 years,815
+2018,Tulare,40-44 years,172
+2018,Tulare,45 years and over,16
+2019,Tulare,20-24 years,1601
+2019,Tulare,25-29 years,2055
+2019,Tulare,30-34 years,1677
+2019,Tulare,35-39 years,790
+2019,Tulare,40-44 years,199
+2019,Tulare,45 years and over,
+2020,Tulare,20-24 years,1558
+2020,Tulare,25-29 years,2046
+2020,Tulare,30-34 years,1609
+2020,Tulare,35-39 years,843
+2020,Tulare,40-44 years,199
+2020,Tulare,45 years and over,
+2021,Tulare,20-24 years,1567
+2021,Tulare,25-29 years,2093
+2021,Tulare,30-34 years,1684
+2021,Tulare,35-39 years,821
+2021,Tulare,40-44 years,220
+2021,Tulare,45 years and over,
+2022,Tulare,20-24 years,1553
+2022,Tulare,25-29 years,2072
+2022,Tulare,30-34 years,1721
+2022,Tulare,35-39 years,874
+2022,Tulare,40-44 years,211
+2022,Tulare,45 years and over,
+2023,Tulare,20-24 years,1436
+2023,Tulare,25-29 years,2010
+2023,Tulare,30-34 years,1700
+2023,Tulare,35-39 years,843
+2023,Tulare,40-44 years,196
+2023,Tulare,45 years and over,
+2024,Tulare,20-24 years,1429
+2024,Tulare,25-29 years,1912
+2024,Tulare,30-34 years,1719
+2024,Tulare,35-39 years,949
+2024,Tulare,40-44 years,227
+2024,Tulare,45 years and over,
+2014,Tuolumne,20-24 years,119
+2014,Tuolumne,25-29 years,156
+2014,Tuolumne,30-34 years,103
+2014,Tuolumne,35-39 years,41
+2014,Tuolumne,40-44 years,
+2014,Tuolumne,45 years and over,
+2015,Tuolumne,20-24 years,116
+2015,Tuolumne,25-29 years,159
+2015,Tuolumne,30-34 years,112
+2015,Tuolumne,35-39 years,43
+2015,Tuolumne,40-44 years,
+2015,Tuolumne,45 years and over,
+2016,Tuolumne,20-24 years,109
+2016,Tuolumne,25-29 years,156
+2016,Tuolumne,30-34 years,118
+2016,Tuolumne,35-39 years,48
+2016,Tuolumne,40-44 years,
+2016,Tuolumne,45 years and over,0
+2017,Tuolumne,20-24 years,103
+2017,Tuolumne,25-29 years,161
+2017,Tuolumne,30-34 years,107
+2017,Tuolumne,35-39 years,69
+2017,Tuolumne,40-44 years,19
+2017,Tuolumne,45 years and over,
+2018,Tuolumne,20-24 years,80
+2018,Tuolumne,25-29 years,161
+2018,Tuolumne,30-34 years,111
+2018,Tuolumne,35-39 years,66
+2018,Tuolumne,40-44 years,
+2018,Tuolumne,45 years and over,
+2019,Tuolumne,20-24 years,95
+2019,Tuolumne,25-29 years,153
+2019,Tuolumne,30-34 years,141
+2019,Tuolumne,35-39 years,51
+2019,Tuolumne,40-44 years,
+2019,Tuolumne,45 years and over,0
+2020,Tuolumne,20-24 years,75
+2020,Tuolumne,25-29 years,112
+2020,Tuolumne,30-34 years,126
+2020,Tuolumne,35-39 years,54
+2020,Tuolumne,40-44 years,
+2020,Tuolumne,45 years and over,
+2021,Tuolumne,20-24 years,70
+2021,Tuolumne,25-29 years,151
+2021,Tuolumne,30-34 years,149
+2021,Tuolumne,35-39 years,60
+2021,Tuolumne,40-44 years,12
+2021,Tuolumne,45 years and over,
+2022,Tuolumne,20-24 years,83
+2022,Tuolumne,25-29 years,119
+2022,Tuolumne,30-34 years,147
+2022,Tuolumne,35-39 years,55
+2022,Tuolumne,40-44 years,16
+2022,Tuolumne,45 years and over,0
+2023,Tuolumne,20-24 years,66
+2023,Tuolumne,25-29 years,136
+2023,Tuolumne,30-34 years,144
+2023,Tuolumne,35-39 years,59
+2023,Tuolumne,40-44 years,
+2023,Tuolumne,45 years and over,0
+2024,Tuolumne,20-24 years,55
+2024,Tuolumne,25-29 years,136
+2024,Tuolumne,30-34 years,122
+2024,Tuolumne,35-39 years,79
+2024,Tuolumne,40-44 years,
+2024,Tuolumne,45 years and over,
+2014,Ventura,20-24 years,1972
+2014,Ventura,25-29 years,2821
+2014,Ventura,30-34 years,3014
+2014,Ventura,35-39 years,1644
+2014,Ventura,40-44 years,399
+2014,Ventura,45 years and over,
+2015,Ventura,20-24 years,1725
+2015,Ventura,25-29 years,2678
+2015,Ventura,30-34 years,3033
+2015,Ventura,35-39 years,1697
+2015,Ventura,40-44 years,395
+2015,Ventura,45 years and over,
+2016,Ventura,20-24 years,1552
+2016,Ventura,25-29 years,2657
+2016,Ventura,30-34 years,2935
+2016,Ventura,35-39 years,1612
+2016,Ventura,40-44 years,367
+2016,Ventura,45 years and over,
+2017,Ventura,20-24 years,1459
+2017,Ventura,25-29 years,2492
+2017,Ventura,30-34 years,2816
+2017,Ventura,35-39 years,1727
+2017,Ventura,40-44 years,413
+2017,Ventura,45 years and over,
+2018,Ventura,20-24 years,1282
+2018,Ventura,25-29 years,2418
+2018,Ventura,30-34 years,2913
+2018,Ventura,35-39 years,1624
+2018,Ventura,40-44 years,406
+2018,Ventura,45 years and over,
+2019,Ventura,20-24 years,1253
+2019,Ventura,25-29 years,2296
+2019,Ventura,30-34 years,2767
+2019,Ventura,35-39 years,1698
+2019,Ventura,40-44 years,453
+2019,Ventura,45 years and over,
+2020,Ventura,20-24 years,1116
+2020,Ventura,25-29 years,2127
+2020,Ventura,30-34 years,2754
+2020,Ventura,35-39 years,1641
+2020,Ventura,40-44 years,356
+2020,Ventura,45 years and over,
+2021,Ventura,20-24 years,1096
+2021,Ventura,25-29 years,2190
+2021,Ventura,30-34 years,2877
+2021,Ventura,35-39 years,1873
+2021,Ventura,40-44 years,454
+2021,Ventura,45 years and over,
+2022,Ventura,20-24 years,1114
+2022,Ventura,25-29 years,2091
+2022,Ventura,30-34 years,2989
+2022,Ventura,35-39 years,1776
+2022,Ventura,40-44 years,455
+2022,Ventura,45 years and over,
+2023,Ventura,20-24 years,1030
+2023,Ventura,25-29 years,1924
+2023,Ventura,30-34 years,2833
+2023,Ventura,35-39 years,1876
+2023,Ventura,40-44 years,459
+2023,Ventura,45 years and over,
+2024,Ventura,20-24 years,1048
+2024,Ventura,25-29 years,1942
+2024,Ventura,30-34 years,2822
+2024,Ventura,35-39 years,1868
+2024,Ventura,40-44 years,459
+2024,Ventura,45 years and over,
+2014,Yolo,20-24 years,404
+2014,Yolo,25-29 years,667
+2014,Yolo,30-34 years,724
+2014,Yolo,35-39 years,395
+2014,Yolo,40-44 years,101
+2014,Yolo,45 years and over,
+2015,Yolo,20-24 years,420
+2015,Yolo,25-29 years,605
+2015,Yolo,30-34 years,781
+2015,Yolo,35-39 years,393
+2015,Yolo,40-44 years,102
+2015,Yolo,45 years and over,
+2016,Yolo,20-24 years,380
+2016,Yolo,25-29 years,642
+2016,Yolo,30-34 years,771
+2016,Yolo,35-39 years,450
+2016,Yolo,40-44 years,79
+2016,Yolo,45 years and over,17
+2017,Yolo,20-24 years,360
+2017,Yolo,25-29 years,608
+2017,Yolo,30-34 years,685
+2017,Yolo,35-39 years,417
+2017,Yolo,40-44 years,107
+2017,Yolo,45 years and over,
+2018,Yolo,20-24 years,297
+2018,Yolo,25-29 years,553
+2018,Yolo,30-34 years,700
+2018,Yolo,35-39 years,432
+2018,Yolo,40-44 years,80
+2018,Yolo,45 years and over,
+2019,Yolo,20-24 years,286
+2019,Yolo,25-29 years,531
+2019,Yolo,30-34 years,686
+2019,Yolo,35-39 years,423
+2019,Yolo,40-44 years,
+2019,Yolo,45 years and over,
+2020,Yolo,20-24 years,276
+2020,Yolo,25-29 years,497
+2020,Yolo,30-34 years,607
+2020,Yolo,35-39 years,429
+2020,Yolo,40-44 years,88
+2020,Yolo,45 years and over,
+2021,Yolo,20-24 years,268
+2021,Yolo,25-29 years,485
+2021,Yolo,30-34 years,651
+2021,Yolo,35-39 years,407
+2021,Yolo,40-44 years,101
+2021,Yolo,45 years and over,
+2022,Yolo,20-24 years,255
+2022,Yolo,25-29 years,493
+2022,Yolo,30-34 years,643
+2022,Yolo,35-39 years,372
+2022,Yolo,40-44 years,91
+2022,Yolo,45 years and over,
+2023,Yolo,20-24 years,211
+2023,Yolo,25-29 years,507
+2023,Yolo,30-34 years,643
+2023,Yolo,35-39 years,372
+2023,Yolo,40-44 years,110
+2023,Yolo,45 years and over,
+2024,Yolo,20-24 years,205
+2024,Yolo,25-29 years,440
+2024,Yolo,30-34 years,620
+2024,Yolo,35-39 years,392
+2024,Yolo,40-44 years,87
+2024,Yolo,45 years and over,11
+2014,Yuba,20-24 years,306
+2014,Yuba,25-29 years,422
+2014,Yuba,30-34 years,257
+2014,Yuba,35-39 years,117
+2014,Yuba,40-44 years,
+2014,Yuba,45 years and over,
+2015,Yuba,20-24 years,284
+2015,Yuba,25-29 years,384
+2015,Yuba,30-34 years,266
+2015,Yuba,35-39 years,109
+2015,Yuba,40-44 years,
+2015,Yuba,45 years and over,
+2016,Yuba,20-24 years,303
+2016,Yuba,25-29 years,421
+2016,Yuba,30-34 years,301
+2016,Yuba,35-39 years,110
+2016,Yuba,40-44 years,26
+2016,Yuba,45 years and over,
+2017,Yuba,20-24 years,271
+2017,Yuba,25-29 years,419
+2017,Yuba,30-34 years,275
+2017,Yuba,35-39 years,128
+2017,Yuba,40-44 years,
+2017,Yuba,45 years and over,
+2018,Yuba,20-24 years,270
+2018,Yuba,25-29 years,374
+2018,Yuba,30-34 years,268
+2018,Yuba,35-39 years,117
+2018,Yuba,40-44 years,
+2018,Yuba,45 years and over,
+2019,Yuba,20-24 years,258
+2019,Yuba,25-29 years,394
+2019,Yuba,30-34 years,298
+2019,Yuba,35-39 years,126
+2019,Yuba,40-44 years,
+2019,Yuba,45 years and over,
+2020,Yuba,20-24 years,231
+2020,Yuba,25-29 years,388
+2020,Yuba,30-34 years,284
+2020,Yuba,35-39 years,127
+2020,Yuba,40-44 years,
+2020,Yuba,45 years and over,
+2021,Yuba,20-24 years,228
+2021,Yuba,25-29 years,436
+2021,Yuba,30-34 years,329
+2021,Yuba,35-39 years,115
+2021,Yuba,40-44 years,
+2021,Yuba,45 years and over,0
+2022,Yuba,20-24 years,239
+2022,Yuba,25-29 years,387
+2022,Yuba,30-34 years,361
+2022,Yuba,35-39 years,172
+2022,Yuba,40-44 years,
+2022,Yuba,45 years and over,
+2023,Yuba,20-24 years,207
+2023,Yuba,25-29 years,318
+2023,Yuba,30-34 years,313
+2023,Yuba,35-39 years,164
+2023,Yuba,40-44 years,31
+2023,Yuba,45 years and over,
+2024,Yuba,20-24 years,210
+2024,Yuba,25-29 years,348
+2024,Yuba,30-34 years,324
+2024,Yuba,35-39 years,188
+2024,Yuba,40-44 years,
+2024,Yuba,45 years and over,
